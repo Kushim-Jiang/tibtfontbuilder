@@ -41170,8 +41170,8 @@ const mappingData = [
     index: 5882,
     pua: "󱃹",
     cp: 987385,
-    sequence: "ཪྤཱུ",
-    tran: "ṛpū",
+    sequence: "རྤཱུ",
+    tran: "rpū",
   },
   {
     index: 5883,
@@ -50656,6 +50656,6 @@ const mappingData = [
     pua: "󱙄",
     cp: 988740,
     sequence: "ིྀ",
-    tran: "ií"
+    tran: "ií",
   }
 ];

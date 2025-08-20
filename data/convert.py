@@ -1,7 +1,7 @@
 # convert_tsv_to_json.py
 import json
 
-with open("D:/Github/repertoire/Tibetan/20542-22238.txt", "r", encoding="utf-8") as f:
+with open("data/20542-22238.txt", "r", encoding="utf-8") as f:
     lines = [line.strip().split("\t") for line in f if line.strip()]
     mapping_data = []
     for line in lines:
@@ -15,5 +15,15 @@ with open("D:/Github/repertoire/Tibetan/20542-22238.txt", "r", encoding="utf-8")
             }
             mapping_data.append(entry)
 
-with open("mapping.json", "w", encoding="utf-8") as f:
-    json.dump(mapping_data, f, ensure_ascii=False, indent=2)
+result = json.dumps(mapping_data, ensure_ascii=False, indent=2)
+result = (
+    result.replace('"index"', "index")
+    .replace('"pua"', "pua")
+    .replace('"cp"', "cp")
+    .replace('"sequence"', "sequence")
+    .replace('"tran"', "tran")
+    .replace('"\n', '",\n')
+)
+
+with open("site/mapping.js", "w", encoding="utf-8") as f:
+    f.write(f"const mappingData = {result};")

@@ -36,6 +36,23 @@
             font-family: monospace;
         }
 
+        .progress-container {
+            margin-top: 10px;
+            width: 100%;
+        }
+
+        progress {
+            width: 100%;
+            height: 20px;
+        }
+
+        .codepoint-progress {
+            text-align: right;
+            font-size: 14px;
+            margin-top: 5px;
+            font-family: monospace;
+        }
+
         .info-section {
             border: 1px solid #ddd;
             padding: 15px;
@@ -68,6 +85,7 @@
         .split-item-1 {
             flex: 2;
         }
+
         .split-item-2 {
             flex: 1;
         }
@@ -157,6 +175,12 @@
 
             <input type="text" id="hex-input" placeholder="U+HEX" style="width: 100px; padding: 5px;">
             <button id="jump-btn">Jump</button>
+        </div>
+
+        <!-- Progress bar -->
+        <div class="progress-container">
+            <progress id="progress-bar" value="0" max="100"></progress>
+            <div class="codepoint-progress"><span id="progress-value">0</span>%</div>
         </div>
 
         <div class="row-layout">
@@ -272,6 +296,21 @@
                 tranDisplay.textContent = '/';
                 tranDisplay.style.fontFamily = 'Charis SIL, serif';
             }
+
+            // Update progress bar
+            const progressBar = document.getElementById('progress-bar');
+            const progressValue = document.getElementById('progress-value');
+            if (mappingEntry) {
+                const index = mappingData.findIndex(entry => entry.cp === codepoint);
+                if (index >= 0) {
+                    const percent = ((index / mappingData.length) * 100).toFixed(2);
+                    progressBar.value = percent;
+                    progressValue.textContent = percent;
+                }
+            } else {
+                progressBar.value = 0;
+                progressValue.textContent = "0";
+            }
         }
 
         // Event listeners for buttons
@@ -329,9 +368,6 @@
             }
         });
     </script>
-
-
-
 </body>
 
 </html>

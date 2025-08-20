@@ -1,5 +1,6 @@
-- Now: F0680
-- Day: 4
+- Noto check now: F0680
+- Mapping check now: F10F9
+- Day: 5
 
 - Design Errors (Noto Serif Tibetan)
 
@@ -43,8 +44,28 @@
   - `F049B`, wrong glyph name, should be _Sanskrit źźñe_
   - `F04B6`, wrong glyph name, should be _Sanskrit źño_
   - `F05AA`, wrong glyph name, should be _Sanskrit ñrā_
+  - `F07C8`, wrong glyph name, should be _Sanskrit ņtʰu_
+  - `F07DD`, wrong glyph name, should be _Sanskrit ņbʰy_
+  - `F0824`, wrong glyph name, should be _Sanskrit tko_
+  - `F08EC`, wrong glyph name, should be _Sanskrit tplo_
+  - `F0B10`, wrong glyph name, should be _Sanskrit dʰđʰw_
+  - `F0B11`, wrong glyph name, should be _Sanskrit dʰđʰwå_
+  - `F0B6F`, wrong glyph name, should be _Sanskrit nćā_
+  - `F0BE6`, wrong glyph prefix
+  - `F0C49`, wrong glyph name, should be _Sanskrit npʰu_
+  - `F0C8F`, wrong glyph name, should be _Sanskrit nwe_
+  - `F0DA3`, wrong glyph name, should be _Sanskrit pʰwo_
+  - `F0DF2`, wrong glyph name, should be _Sanskrit bdʰr_
+  - `F1004`, wrong glyph name, should be _Sanskrit rźru_
+  - `F10E9`, wrong glyph name, should be _Sanskrit rdʰwo_
+  - `F10EA`, wrong glyph name, should be _Sanskrit rdʰwå_
+  - `F12D7`, wrong glyph name, should be _Sanskrit wy_
+  - `F130F`, wrong glyph name, should be _Sanskrit śkʰā_
+  - `F1617`, wrong glyph name, should be _Sanskrit hs_
+  - `F1619`, wrong glyph name, should be _Sanskrit hsi_
 
 - Rule
 
-  - _r_ will mirror when following _ş_, _ţ_
-  - _w_ will mirror when following _ş_, _kş_
+  - _r_ will mirror when following _ş_, _ţ_, _ţʰ_, _đ_, _ņ_
+  - _w_ will mirror when following _ş_, _kş_, _ţʰ_, _đ_
+  - _w_ should first connect to consonant, then connect to _u_
