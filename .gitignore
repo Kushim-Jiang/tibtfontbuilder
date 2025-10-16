@@ -1,8 +1,13 @@
 FZZW_QT.TTF
 NotoSerifTibetan-Regular.ttf
+november.yaml
+NovemberTibetanVF.ttf
+
 20542_filtered_cells/
 20542_filtered_names/
 22238_filtered_cells/
 22238_filtered_names/
 
 temp/
+__pycache__/
+test.py
