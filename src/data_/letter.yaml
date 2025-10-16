@@ -1,0 +1,385 @@
+ka:
+  - written: [Ka]
+    cp: 0x0F40
+  - mark: True
+    written: [Ka]
+    cp: 0x0F90
+
+kha:
+  - written: [Kha]
+    cp: 0x0F41
+  - mark: True
+    written: [Kha]
+    cp: 0x0F91
+
+ga:
+  - written: [Ga]
+    cp: 0x0F42
+  - mark: True
+    written: [Ga]
+    cp: 0x0F92
+
+gha:
+  - cp: 0x0F43
+    decompose: [0x0F42, 0x0FB7]
+  - mark: True
+    cp: 0x0F93
+    decompose: [0x0F92, 0x0FB7]
+
+nga:
+  - written: [Nga]
+    cp: 0x0F44
+  - mark: True
+    written: [Nga]
+    cp: 0x0F94
+
+ca:
+  - written: [Ca]
+    cp: 0x0F45
+  - mark: True
+    written: [Ca]
+    cp: 0x0F95
+
+cha:
+  - written: [Cha]
+    cp: 0x0F46
+  - mark: True
+    written: [Cha]
+    cp: 0x0F96
+
+ja:
+  - written: [Ja]
+    cp: 0x0F47
+  - mark: True
+    written: [Ja]
+    cp: 0x0F97
+
+nya:
+  - written: [Nya]
+    cp: 0x0F49
+  - mark: True
+    written: [Nya]
+    cp: 0x0F99
+
+tta:
+  - written: [Tta]
+    cp: 0x0F4A
+  - mark: True
+    written: [Tta]
+    cp: 0x0F9A
+
+ttha:
+  - written: [Ttha]
+    cp: 0x0F4B
+  - mark: True
+    written: [Ttha]
+    cp: 0x0F9B
+
+dda:
+  - written: [Dda]
+    cp: 0x0F4C
+  - mark: True
+    written: [Dda]
+    cp: 0x0F9C
+
+ddha:
+  - cp: 0x0F4D
+    decompose: [0x0F4C, 0x0FB7]
+  - mark: True
+    cp: 0x0F9D
+    decompose: [0x0F9C, 0x0FB7]
+
+nna:
+  - written: [Nna]
+    cp: 0x0F4E
+  - mark: True
+    written: [Nna]
+    cp: 0x0F9E
+
+ta:
+  - written: [Ta]
+    cp: 0x0F4F
+  - mark: True
+    written: [Ta]
+    cp: 0x0F9F
+
+tha:
+  - written: [Tha]
+    cp: 0x0F50
+  - mark: True
+    written: [Tha]
+    cp: 0x0FA0
+
+da:
+  - written: [Da]
+    cp: 0x0F51
+  - mark: True
+    written: [Da]
+    cp: 0x0FA1
+
+dha:
+  - cp: 0x0F52
+    decompose: [0x0F51, 0x0FB7]
+  - mark: True
+    cp: 0x0FA2
+    decompose: [0x0FA1, 0x0FB7]
+
+na:
+  - written: [Na]
+    cp: 0x0F53
+  - mark: True
+    written: [Na]
+    cp: 0x0FA3
+
+pa:
+  - written: [Pa]
+    cp: 0x0F54
+  - mark: True
+    written: [Pa]
+    cp: 0x0FA4
+
+pha:
+  - written: [Pha]
+    cp: 0x0F55
+  - mark: True
+    written: [Pha]
+    cp: 0x0FA5
+
+ba:
+  - written: [Ba]
+    cp: 0x0F56
+  - mark: True
+    written: [Ba]
+    cp: 0x0FA6
+
+bha:
+  - cp: 0x0F57
+    decompose: [0x0F56, 0x0FB7]
+  - mark: True
+    cp: 0x0FA7
+    decompose: [0x0FA6, 0x0FB7]
+
+ma:
+  - written: [Ma]
+    cp: 0x0F58
+  - mark: True
+    written: [Ma]
+    cp: 0x0FA8
+
+tsa:
+  - written: [Tsa]
+    cp: 0x0F59
+  - mark: True
+    written: [Tsa]
+    cp: 0x0FA9
+
+tsha:
+  - written: [Tsha]
+    cp: 0x0F5A
+  - mark: True
+    written: [Tsha]
+    cp: 0x0FAA
+
+dza:
+  - written: [Dza]
+    cp: 0x0F5B
+  - mark: True
+    written: [Dza]
+    cp: 0x0FAB
+
+dzha:
+  - cp: 0x0F5C
+    decompose: [0x0F5B, 0x0FB7]
+  - mark: True
+    cp: 0x0FAC
+    decompose: [0x0FAB, 0x0FB7]
+
+wa:
+  - written: [Wa]
+    cp: 0x0F5D
+  - mark: True
+    written: [Wata]
+    cp: 0x0FAD
+  - mark: True
+    written: [Watamirror]
+  - mark: True
+    written: [Wa]
+    cp: 0x0FBA
+
+zha:
+  - written: [Zha]
+    cp: 0x0F5E
+  - mark: True
+    written: [Zha]
+    cp: 0x0FAE
+
+za:
+  - written: [Za]
+    cp: 0x0F5F
+  - mark: True
+    written: [Za]
+    cp: 0x0FAF
+
+xa:
+  - written: [Xa]
+    cp: 0x0F60
+  - mark: True
+    written: [Xa]
+    cp: 0x0FB0
+
+ya:
+  - written: [Ya]
+    cp: 0x0F61
+  - mark: True
+    written: [Yata]
+    cp: 0x0FB1
+  - mark: True
+    written: [Yatamirror]
+  - mark: True
+    written: [Ya]
+    cp: 0x0FBB
+
+ra:
+  - written: [Ra]
+    cp: 0x0F62
+  - written: [Rago]
+  - mark: True
+    written: [Rata]
+    cp: 0x0FB2
+  - mark: True
+    written: [Ratamirror]
+  - mark: True
+    written: [Ra]
+    cp: 0x0FBC
+
+la:
+  - written: [La]
+    cp: 0x0F63
+  - mark: True
+    written: [La]
+    cp: 0x0FB3
+
+sha:
+  - written: [Sha]
+    cp: 0x0F64
+  - mark: True
+    written: [Sha]
+    cp: 0x0FB4
+
+ssa:
+  - written: [Ssa]
+    cp: 0x0F65
+  - mark: True
+    written: [Ssa]
+    cp: 0x0FB5
+
+sa:
+  - written: [Sa]
+    cp: 0x0F66
+  - mark: True
+    written: [Sa]
+    cp: 0x0FB6
+
+ha:
+  - written: [Ha]
+    cp: 0x0F67
+  - mark: True
+    written: [Ha]
+    cp: 0x0FB7
+
+qa:
+  - written: [Qa]
+    cp: 0x0F68
+  - mark: True
+    written: [Qa]
+    cp: 0x0F98
+
+kssa:
+  - cp: 0x0F69
+    decompose: [0x0F40, 0x0FB5]
+  - mark: True
+    cp: 0x0F99
+    decompose: [0x0F90, 0x0FB5]
+
+kka:
+  - written: [Kka]
+    cp: 0x0F6B
+
+rra:
+  - written: [Rra]
+    cp: 0x0F6C
+
+aa:
+  - mark: True
+    written: [Aa]
+    cp: 0x0F71
+
+i:
+  - mark: True
+    written: [I]
+    cp: 0x0F72
+
+ii:
+  - mark: True
+    cp: 0x0F73
+    decompose: [0x0F71, 0x0F72]
+
+u:
+  - mark: True
+    written: [U]
+    cp: 0x0F74
+
+uu:
+  - mark: True
+    cp: 0x0F75
+    decompose: [0x0F71, 0x0F74]
+
+r:
+  - mark: True
+    cp: 0x0F76
+    decompose: [0x0FB2, 0x0F80]
+
+rr:
+  - mark: True
+    cp: 0x0F77
+    decompose: [0x0FB2, 0x0F71, 0x0F80]
+
+l:
+  - mark: True
+    cp: 0x0F78
+    decompose: [0x0FB3, 0x0F80]
+
+ll:
+  - mark: True
+    cp: 0x0F79
+    decompose: [0x0FB3, 0x0F71, 0x0F80]
+
+e:
+  - mark: True
+    written: [E]
+    cp: 0x0F7A
+
+ee:
+  - mark: True
+    cp: 0x0F7B
+    decompose: [0x0F7A, 0x0F7A]
+
+o:
+  - mark: True
+    written: [O]
+    cp: 0x0F7C
+
+oo:
+  - mark: True
+    cp: 0x0F7D
+    decompose: [0x0F7C, 0x0F7C]
+
+ir:
+  - mark: True
+    written: [Imirror]
+    cp: 0x0F80
+
+iir:
+  - mark: True
+    cp: 0x0F81
+    decompose: [0x0F71, 0x0F80]

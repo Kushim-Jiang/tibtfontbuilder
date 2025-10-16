@@ -52,9 +52,9 @@ dza.Dza.base dza.Dza.mark
 zha.Zha.base zha.Zha.mark
 za.Za.base za.Za.mark
 xa.Xa.base xa.Xa.mark
-wa.Wa.base wa.Wa.mark wa.Wamark.mark wa.Wamarkmirror.mark
-ya.Ya.base ya.Ya.mark ya.Yamark.mark ya.Yamarkmirror.mark
-ra.Ra.base ra.Ra.mark ra.Rahalf.base ra.Ramark.mark ra.Ramarkmirror.mark
+wa.Wa.base wa.Wa.mark wa.Wata.mark wa.Watamirror.mark
+ya.Ya.base ya.Ya.mark ya.Yata.mark ya.Yatamirror.mark
+ra.Ra.base ra.Ra.mark ra.Rago.base ra.Rata.mark ra.Ratamirror.mark
 la.La.base la.La.mark
 sha.Sha.base sha.Sha.mark
 ssa.Ssa.base ssa.Ssa.mark
@@ -107,27 +107,27 @@ TibChainingContext5: Mark stacking. Such as adjusting the relative position of `
 
 ### `blws`
 
-**TibChainingContext6: Ra and Rahalf**. When precedes all consonants besides nya, la, ra, wa or ya, `ra.Ra.base` -> `ra.Rahalf.base`. Note that it seems that only ra_nya situation is confirmed in the encoding document.
+**TibChainingContext6: Ra and Rago**. When precedes all consonants besides nya, la, ra, wa or ya, `ra.Ra.base` -> `ra.Rago.base`. Note that it seems that only ra_nya situation is confirmed in the encoding document.
 
-(Non-standard) When precedes nya, la, `rha.Ra.base` -> `ra.Rahalf.base`.
+(Non-standard) When precedes nya, la, `rha.Ra.base` -> `ra.Rago.base`.
 
-(Non-standard) `ra.Ra.base` `zwj` -> `ra.Rahalf.base`.
+(Non-standard) `ra.Ra.base` `zwj` -> `ra.Rago.base`.
 
 **TibSingleSubstitution6: rha -> ra**. `rha` completes all tasks.
 
 TibChainingContext7: add dotted circle. Add dotted circle between below-base sign and below-base consonant (only when CCC=0, thus not for u / aa). Add dotted circle between u / aa and halanta.
 
-**TibChainingContext8: Mirror wa and ra**. When following tta / ttha / dda / nna / ssa / kka / rra, `wa.Wamark.mark` -> `wa.Wamarkmirror.mark`, `ra.Ramark.mark` -> `ra.Ramarkmirror.mark`. Note that `ya.Yamark.mark` will not mirror, because it will not affect the mirroring of the following mark.
+**TibChainingContext8: Mirror wa and ra**. When following tta / ttha / dda / nna / ssa / kka / rra, `wa.Wata.mark` -> `wa.Watamirror.mark`, `ra.Rata.mark` -> `ra.Ratamirror.mark`. Note that `ya.Yata.mark` will not mirror, because it will not affect the mirroring of the following mark.
 
 TibChainingContext9: Reduce the height of the glyph.
 
-TibChainingContext10: Adjust the design of wa / ya / u. When following Wamarkmirror and Ramarkmirror, `ya.Yamark.mark` will change its start stroke to the left.
+TibChainingContext10: Adjust the design of wa / ya / u. When following Watamirror and Ratamirror, `ya.Yata.mark` will change its start stroke to the left.
 
 TibLigature3: Compose the glyph for aspirated consonants. Such as `ga.Ga.base` `ha.Ha.mark` -> `gha.GaHa.base`.
 
 TibLigature4: Compose the glyph for consonants and vowels. Such as `ka.Ka.base` `aa` -> `ka_aa.KaAa.base`.
 
-TibChainingContext11: Compose the glyph for `Rahalf`. Adjust the design of `Yamark`.
+TibChainingContext11: Compose the glyph for `Rago`. Adjust the design of `Yata`.
 
 ### `psts`
 
