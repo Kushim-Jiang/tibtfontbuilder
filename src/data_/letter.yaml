@@ -1,385 +1,344 @@
 ka:
-  - written: [Ka]
+  - name: ka
     cp: 0x0F40
-  - mark: True
-    written: [Ka]
+  - name: kaSub
     cp: 0x0F90
 
 kha:
-  - written: [Kha]
+  - name: kha
     cp: 0x0F41
-  - mark: True
-    written: [Kha]
+  - name: khaSub
     cp: 0x0F91
 
 ga:
-  - written: [Ga]
+  - name: ga
     cp: 0x0F42
-  - mark: True
-    written: [Ga]
+  - name: gaSub
     cp: 0x0F92
 
 gha:
-  - cp: 0x0F43
+  - name: gha
+    cp: 0x0F43
     decompose: [0x0F42, 0x0FB7]
-  - mark: True
+  - name: ghaSub
     cp: 0x0F93
     decompose: [0x0F92, 0x0FB7]
 
 nga:
-  - written: [Nga]
+  - name: nga
     cp: 0x0F44
-  - mark: True
-    written: [Nga]
+  - name: ngaSub
     cp: 0x0F94
 
 ca:
-  - written: [Ca]
+  - name: ca
     cp: 0x0F45
-  - mark: True
-    written: [Ca]
+  - name: caSub
     cp: 0x0F95
 
 cha:
-  - written: [Cha]
+  - name: cha
     cp: 0x0F46
-  - mark: True
-    written: [Cha]
+  - name: chaSub
     cp: 0x0F96
 
 ja:
-  - written: [Ja]
+  - name: ja
     cp: 0x0F47
-  - mark: True
-    written: [Ja]
+  - name: jaSub
     cp: 0x0F97
 
 nya:
-  - written: [Nya]
+  - name: nya
     cp: 0x0F49
-  - mark: True
-    written: [Nya]
+  - name: nyaSub
     cp: 0x0F99
 
 tta:
-  - written: [Tta]
+  - name: tta
     cp: 0x0F4A
-  - mark: True
-    written: [Tta]
+  - name: ttaSub
     cp: 0x0F9A
 
 ttha:
-  - written: [Ttha]
+  - name: ttha
     cp: 0x0F4B
-  - mark: True
-    written: [Ttha]
+  - name: tthaSub
     cp: 0x0F9B
 
 dda:
-  - written: [Dda]
+  - name: dda
     cp: 0x0F4C
-  - mark: True
-    written: [Dda]
+  - name: ddaSub
     cp: 0x0F9C
 
 ddha:
-  - cp: 0x0F4D
+  - name: ddha
+    cp: 0x0F4D
     decompose: [0x0F4C, 0x0FB7]
-  - mark: True
+  - name: ddhaSub
     cp: 0x0F9D
     decompose: [0x0F9C, 0x0FB7]
 
 nna:
-  - written: [Nna]
+  - name: nna
     cp: 0x0F4E
-  - mark: True
-    written: [Nna]
+  - name: nnaSub
     cp: 0x0F9E
 
 ta:
-  - written: [Ta]
+  - name: ta
     cp: 0x0F4F
-  - mark: True
-    written: [Ta]
+  - name: taSub
     cp: 0x0F9F
 
 tha:
-  - written: [Tha]
+  - name: tha
     cp: 0x0F50
-  - mark: True
-    written: [Tha]
+  - name: thaSub
     cp: 0x0FA0
 
 da:
-  - written: [Da]
+  - name: da
     cp: 0x0F51
-  - mark: True
-    written: [Da]
+  - name: daSub
     cp: 0x0FA1
 
 dha:
-  - cp: 0x0F52
+  - name: dha
+    cp: 0x0F52
     decompose: [0x0F51, 0x0FB7]
-  - mark: True
+  - name: dhaSub
     cp: 0x0FA2
     decompose: [0x0FA1, 0x0FB7]
 
 na:
-  - written: [Na]
+  - name: na
     cp: 0x0F53
-  - mark: True
-    written: [Na]
+  - name: naSub
     cp: 0x0FA3
 
 pa:
-  - written: [Pa]
+  - name: pa
     cp: 0x0F54
-  - mark: True
-    written: [Pa]
+  - name: paSub
     cp: 0x0FA4
 
 pha:
-  - written: [Pha]
+  - name: pha
     cp: 0x0F55
-  - mark: True
-    written: [Pha]
+  - name: phaSub
     cp: 0x0FA5
 
 ba:
-  - written: [Ba]
+  - name: ba
     cp: 0x0F56
-  - mark: True
-    written: [Ba]
+  - name: baSub
     cp: 0x0FA6
 
 bha:
-  - cp: 0x0F57
+  - name: bha
+    cp: 0x0F57
     decompose: [0x0F56, 0x0FB7]
-  - mark: True
+  - name: bhaSub
     cp: 0x0FA7
     decompose: [0x0FA6, 0x0FB7]
 
 ma:
-  - written: [Ma]
+  - name: ma
     cp: 0x0F58
-  - mark: True
-    written: [Ma]
+  - name: maSub
     cp: 0x0FA8
 
 tsa:
-  - written: [Tsa]
+  - name: tsa
     cp: 0x0F59
-  - mark: True
-    written: [Tsa]
+  - name: tsaSub
     cp: 0x0FA9
 
 tsha:
-  - written: [Tsha]
+  - name: tsha
     cp: 0x0F5A
-  - mark: True
-    written: [Tsha]
+  - name: tshaSub
     cp: 0x0FAA
 
 dza:
-  - written: [Dza]
+  - name: dza
     cp: 0x0F5B
-  - mark: True
-    written: [Dza]
+  - name: dzaSub
     cp: 0x0FAB
 
 dzha:
-  - cp: 0x0F5C
+  - name: dzha
+    cp: 0x0F5C
     decompose: [0x0F5B, 0x0FB7]
-  - mark: True
+  - name: dzhaSub
     cp: 0x0FAC
     decompose: [0x0FAB, 0x0FB7]
 
 wa:
-  - written: [Wa]
+  - name: wa
     cp: 0x0F5D
-  - mark: True
-    written: [Wata]
+  - name: wataSub
     cp: 0x0FAD
-  - mark: True
-    written: [Watamirror]
-  - mark: True
-    written: [Wa]
+  - name: wataSubMir
+  - name: waSub
     cp: 0x0FBA
 
 zha:
-  - written: [Zha]
+  - name: zha
     cp: 0x0F5E
-  - mark: True
-    written: [Zha]
+  - name: zhaSub
     cp: 0x0FAE
 
 za:
-  - written: [Za]
+  - name: za
     cp: 0x0F5F
-  - mark: True
-    written: [Za]
+  - name: zaSub
     cp: 0x0FAF
 
 xa:
-  - written: [Xa]
+  - name: xa
     cp: 0x0F60
-  - mark: True
-    written: [Xa]
+  - name: xaSub
     cp: 0x0FB0
 
 ya:
-  - written: [Ya]
+  - name: ya
     cp: 0x0F61
-  - mark: True
-    written: [Yata]
+  - name: yataSub
     cp: 0x0FB1
-  - mark: True
-    written: [Yatamirror]
-  - mark: True
-    written: [Ya]
+  - name: yataSubMir
+  - name: yaSub
     cp: 0x0FBB
 
 ra:
-  - written: [Ra]
+  - name: ra
     cp: 0x0F62
-  - written: [Rago]
-  - mark: True
-    written: [Rata]
+  - name: rago
+  - name: rataSub
     cp: 0x0FB2
-  - mark: True
-    written: [Ratamirror]
-  - mark: True
-    written: [Ra]
+  - name: rataSubMir
+  - name: raSub
     cp: 0x0FBC
 
 la:
-  - written: [La]
+  - name: la
     cp: 0x0F63
-  - mark: True
-    written: [La]
+  - name: laSub
     cp: 0x0FB3
 
 sha:
-  - written: [Sha]
+  - name: sha
     cp: 0x0F64
-  - mark: True
-    written: [Sha]
+  - name: shaSub
     cp: 0x0FB4
 
 ssa:
-  - written: [Ssa]
+  - name: ssa
     cp: 0x0F65
-  - mark: True
-    written: [Ssa]
+  - name: ssaSub
     cp: 0x0FB5
 
 sa:
-  - written: [Sa]
+  - name: sa
     cp: 0x0F66
-  - mark: True
-    written: [Sa]
+  - name: saSub
     cp: 0x0FB6
 
 ha:
-  - written: [Ha]
+  - name: ha
     cp: 0x0F67
-  - mark: True
-    written: [Ha]
+  - name: haSub
     cp: 0x0FB7
 
 qa:
-  - written: [Qa]
+  - name: qa
     cp: 0x0F68
-  - mark: True
-    written: [Qa]
+  - name: qaSub
     cp: 0x0F98
 
 kssa:
-  - cp: 0x0F69
+  - name: kssa
+    cp: 0x0F69
     decompose: [0x0F40, 0x0FB5]
-  - mark: True
+  - name: kssaSub
     cp: 0x0F99
     decompose: [0x0F90, 0x0FB5]
 
 kka:
-  - written: [Kka]
+  - name: kka
     cp: 0x0F6B
 
 rra:
-  - written: [Rra]
+  - name: rra
     cp: 0x0F6C
 
 aa:
-  - mark: True
-    written: [Aa]
+  - name: aa
     cp: 0x0F71
 
 i:
-  - mark: True
-    written: [I]
+  - name: i
     cp: 0x0F72
 
 ii:
-  - mark: True
+  - name: ii
     cp: 0x0F73
     decompose: [0x0F71, 0x0F72]
 
 u:
-  - mark: True
-    written: [U]
+  - name: u
     cp: 0x0F74
 
 uu:
-  - mark: True
+  - name: uu
     cp: 0x0F75
     decompose: [0x0F71, 0x0F74]
 
 r:
-  - mark: True
+  - name: r
     cp: 0x0F76
     decompose: [0x0FB2, 0x0F80]
 
 rr:
-  - mark: True
+  - name: rr
     cp: 0x0F77
     decompose: [0x0FB2, 0x0F71, 0x0F80]
 
 l:
-  - mark: True
+  - name: l
     cp: 0x0F78
     decompose: [0x0FB3, 0x0F80]
 
 ll:
-  - mark: True
+  - name: ll
     cp: 0x0F79
     decompose: [0x0FB3, 0x0F71, 0x0F80]
 
 e:
-  - mark: True
-    written: [E]
+  - name: e
     cp: 0x0F7A
 
 ee:
-  - mark: True
+  - name: ee
     cp: 0x0F7B
     decompose: [0x0F7A, 0x0F7A]
 
 o:
-  - mark: True
-    written: [O]
+  - name: o
     cp: 0x0F7C
 
 oo:
-  - mark: True
+  - name: oo
     cp: 0x0F7D
     decompose: [0x0F7C, 0x0F7C]
 
 ir:
-  - mark: True
-    written: [Imirror]
+  - name: iMir
     cp: 0x0F80
 
 iir:
-  - mark: True
+  - name: iiMir
     cp: 0x0F81
     decompose: [0x0F71, 0x0F80]

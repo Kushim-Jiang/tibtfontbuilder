@@ -1,66 +1,30 @@
 ## Characters and Glyphs
 
-### Letters
+aa i ii u uu r rr l ll e ee o oo
+iMir iiMir
 
-ka kha ga (gha) nga
-ca cha ja (jha) nya
-tta ttha dda (ddha) nna
-ta tha da (dha) na
-pa pha ba (bha) ma
-tsa tsha dza (dzha) wa
-zha za xa ya ra la
-sha ssa sa ha qa (kssa)
+(gha = ga haSub, ghaSub = gaSub haSub)
+(jha = ja haSub, jhaSub = jaSub haSub)
+(ddha = dda haSub, ddhaSub = ddaSub haSub)
+(dha = da haSub, dhaSub = daSub haSub)
+(bha = ba haSub, bhaSub = baSub haSub)
+(dzha = dza haSub, dzhaSub = dzaSub haSub)
+(kssa = ksa haSub, kssaSub = ksaSub haSub)
+
 (rha) kka rra
 
-aa i ii u uu r rr l ll e ee o oo
-imir iimir
+ka kaSub kha khaSub ga gaSub nga ngaSub
+ca caSub cha chaSub ja jaSub nya nyaSub
+tta ttaSub ttha tthaSub dda ddaSub nna nnaSub
+ta taSub tha thaSub da daSub na naSub
+pa paSub pha phaSub ba baSub ma maSub
+tsa tsaSub tsha tshaSub dza dzaSub
+zha zhaSub za zaSub xa xaSub la laSub
+sha shaSub ssa ssaSub sa saSub ha haSub qa qaSub
 
-### Forms
-
-gha -> ga.Ga.base ha.Ha.mark
-jha -> ja.Ja.base ha.Ha.mark
-ddha -> dda.Dda.base ha.Ha.mark
-dha -> da.Da.base ha.Ha.mark
-bha -> ba.Ba.base ha.Ha.mark
-dzha -> dza.Dza.base ha.Ha.mark
-kssa -> ka.Ka.base ssa.Ssa.mark
-rha -> ra.Ra.base
-
-ka.Ka.base ka.Ka.mark
-kha.Kha.base kha.Kha.mark
-ga.Ga.base ga.Ga.mark
-nga.Nga.base nga.Nga.mark
-ca.Ca.base ca.Ca.mark
-cha.Cha.base cha.Cha.mark
-ja.Ja.base ja.Ja.mark
-nya.Nya.base nya.Nya.mark
-tta.Tta.base tta.Tta.mark
-ttha.Ttha.base ttha.Ttha.mark
-dda.Dda.base dda.Dda.mark
-nna.Nna.base nna.Nna.mark
-ta.Ta.base ta.Ta.mark
-tha.Tha.base tha.Tha.mark
-da.Da.base da.Da.mark
-na.Na.base na.Na.mark
-pa.Pa.base pa.Pa.mark
-pha.Pha.base pha.Pha.mark
-ba.Ba.base ba.Ba.mark
-ma.Ma.base ma.Ma.mark
-tsa.Tsa.base tsa.Tsa.mark
-tsha.Tsha.base tsha.Tsha.mark
-dza.Dza.base dza.Dza.mark
-zha.Zha.base zha.Zha.mark
-za.Za.base za.Za.mark
-xa.Xa.base xa.Xa.mark
-wa.Wa.base wa.Wa.mark wa.Wata.mark wa.Watamirror.mark
-ya.Ya.base ya.Ya.mark ya.Yata.mark ya.Yatamirror.mark
-ra.Ra.base ra.Ra.mark ra.Rago.base ra.Rata.mark ra.Ratamirror.mark
-la.La.base la.La.mark
-sha.Sha.base sha.Sha.mark
-ssa.Ssa.base ssa.Ssa.mark
-sa.Sa.base sa.Sa.mark
-ha.Ha.base ha.Ha.mark
-qa.Qa.base qa.Qa.mark
+wa waSub wataSub wataSubMir
+ya yaSub yataSub yataSubMir
+ra rago raSub rataSub rataSubMir
 
 ## Features
 
@@ -93,11 +57,11 @@ qa.Qa.base qa.Qa.mark
 
 ### `ccmp`
 
-**TibMultipleSubstitution1: NFKD decomposition**. Such as `gha.base` -> `ga.Ga.base` `ha.Ha.mark`, `gha.mark` -> `ga.Ga.mark` `ha.Ha.mark`.
+**TibMultipleSubstitution1: NFKD decomposition**. Such as `gha` -> `ga` `haSub`, `ghaSub` -> `gaSub` `haSub`.
 
 ### `abvs`
 
-**TibLigature2: NFKC composition**. Such as `e.mark` `e.mark` -> `ee.mark`.
+**TibLigature2: NFKC composition**. Such as `e` `e` -> `ee`.
 
 TibChainingContext3: Mark stacking. Such as adjusting the relative position of `i` and `camdrabindu`.
 
@@ -107,27 +71,27 @@ TibChainingContext5: Mark stacking. Such as adjusting the relative position of `
 
 ### `blws`
 
-**TibChainingContext6: Ra and Rago**. When precedes all consonants besides nya, la, ra, wa or ya, `ra.Ra.base` -> `ra.Rago.base`. Note that it seems that only ra_nya situation is confirmed in the encoding document.
+**TibChainingContext6: Ra and Rago**. When precedes all consonants besides nya, la, ra, wa or ya, `ra` -> `rago`. Note that it seems that only ra_nya situation is confirmed in the encoding document.
 
-(Non-standard) When precedes nya, la, `rha.Ra.base` -> `ra.Rago.base`.
+(Non-standard) When precedes nya, la, `rha` -> `rago`.
 
-(Non-standard) `ra.Ra.base` `zwj` -> `ra.Rago.base`.
+(Non-standard) `ra` `zwj` -> `rago`.
 
 **TibSingleSubstitution6: rha -> ra**. `rha` completes all tasks.
 
-TibChainingContext7: add dotted circle. Add dotted circle between below-base sign and below-base consonant (only when CCC=0, thus not for u / aa). Add dotted circle between u / aa and halanta.
+TibChainingContext7: add dotted circle. Add dotted circle between below-base sign and below-base consonant (only when CCC=0, thus not for `u` / `aa`). Add dotted circle between `u` / `aa` and `halanta`.
 
-**TibChainingContext8: Mirror wa and ra**. When following tta / ttha / dda / nna / ssa / kka / rra, `wa.Wata.mark` -> `wa.Watamirror.mark`, `ra.Rata.mark` -> `ra.Ratamirror.mark`. Note that `ya.Yata.mark` will not mirror, because it will not affect the mirroring of the following mark.
+**TibChainingContext8: Mirror wa and ra**. When following tta / ttha / dda / nna / ssa / kka / rra, `wataSub` -> `wataSubMir`, `rataSub` -> `rataSubMir`. Note that `yataSub` will not mirror, because it will not affect the mirroring of the following mark.
 
 TibChainingContext9: Reduce the height of the glyph.
 
-TibChainingContext10: Adjust the design of wa / ya / u. When following Watamirror and Ratamirror, `ya.Yata.mark` will change its start stroke to the left.
+TibChainingContext10: Adjust the design of `wa` / `ya` / `u`. When following `wataSubMir` and `rataSubMir`, `yataSub` will change its start stroke to the left.
 
-TibLigature3: Compose the glyph for aspirated consonants. Such as `ga.Ga.base` `ha.Ha.mark` -> `gha.GaHa.base`.
+TibLigature3: Compose the glyph for aspirated consonants. Such as `ga` `haSub` -> `ghaSub`.
 
-TibLigature4: Compose the glyph for consonants and vowels. Such as `ka.Ka.base` `aa` -> `ka_aa.KaAa.base`.
+TibLigature4: Compose the glyph for consonants and vowels. Such as `ka` `aa` -> `ka_aa`.
 
-TibChainingContext11: Compose the glyph for `Rago`. Adjust the design of `Yata`.
+TibChainingContext11: Compose the glyph for `rago`. Adjust the design of `yataSub`.
 
 ### `psts`
 
