@@ -340,11 +340,11 @@ oo:
     cp: 0x0F7D
     compose: [o, o]
 
-ir:
+iMir:
   - name: iMir
     cp: 0x0F80
 
-iir:
+iiMir:
   - name: iiMir
     cp: 0x0F81
     decompose: [aa, iMir]

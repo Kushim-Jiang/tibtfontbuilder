@@ -1,0 +1,64 @@
+vowel:
+  - aa
+  - i
+  - ii
+  - u
+  - uu
+  - r
+  - rr
+  - l
+  - ll
+  - e
+  - ee
+  - o
+  - oo
+  - iMir
+  - iiMir
+
+consonant:
+  - ka
+  - kha
+  - ga
+  - gha
+  - nga
+  - ca
+  - cha
+  - ja
+  - nya
+  - tta
+  - ttha
+  - dda
+  - ddha
+  - nna
+  - ta
+  - tha
+  - da
+  - dha
+  - na
+  - pa
+  - pha
+  - ba
+  - bha
+  - ma
+  - tsa
+  - tsha
+  - dza
+  - dzha
+  - wa
+  - zha
+  - za
+  - xa
+  - ya
+  - ra
+  - la
+  - sha
+  - ssa
+  - sa
+  - ha
+  - qa
+  - kssa
+  - kka
+  - rra
+
+sign:
+  - tsaXphru
