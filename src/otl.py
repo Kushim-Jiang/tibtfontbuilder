@@ -5,25 +5,22 @@ from lib_.spec import FontSpec
 from tptq.feacomposer import FeaComposer
 
 
-def get_data():
-    with open("data/letter.yaml", "r", encoding="utf-8") as f:
+def getData():
+    with open("src/data_/letter.yaml", "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
 
 
-TIBT_DATA = get_data()
+TIBT_DATA: dict[str, list[dict[str, str | int | list[str]]]] = getData()
 
 
-def get_nominal_glyph(cp: int) -> str:
-    for letter, variants in TIBT_DATA.items():
+def getGlyphName(cp: int) -> str:
+    for variants in TIBT_DATA.values():
         for variant in variants:
             if "cp" in variant and variant["cp"] == cp:
-                if "mark" in variant:
-                    return letter + ".mark"
-                return letter
+                return variant["name"]
 
 
 class TibtFeaComposer(FeaComposer):
-
     def __init__(self) -> None:
         self.spec = FontSpec(cmap={}, newGlyphs={}, openTypeCategories={})
         super().__init__(languageSystems={"tibt": {"dflt"}})
@@ -33,12 +30,12 @@ class TibtFeaComposer(FeaComposer):
         return self.spec
 
     def ia(self, c: TibtFeaComposer) -> None:
-        with c.Lookup("Ia.consonant.decomposing", feature="ccmp"):
+        with c.Lookup("Ia.letters.decomposition", feature="ccmp"):
             for variants in TIBT_DATA.values():
                 for variant in variants:
                     if "decompose" in variant:
-                        nominal = get_nominal_glyph(variant["cp"])
-                        decomposed = [get_nominal_glyph(cp) for cp in variant["decompose"]]
+                        nominal = getGlyphName(variant["cp"])
+                        decomposed = variant["decompose"]
                         c.sub(nominal, by=decomposed)
 
 

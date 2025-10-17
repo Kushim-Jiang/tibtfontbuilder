@@ -19,10 +19,10 @@ ga:
 gha:
   - name: gha
     cp: 0x0F43
-    decompose: [0x0F42, 0x0FB7]
+    decompose: [ga, haSub]
   - name: ghaSub
     cp: 0x0F93
-    decompose: [0x0F92, 0x0FB7]
+    decompose: [gaSub, haSub]
 
 nga:
   - name: nga
@@ -75,10 +75,10 @@ dda:
 ddha:
   - name: ddha
     cp: 0x0F4D
-    decompose: [0x0F4C, 0x0FB7]
+    decompose: [dda, haSub]
   - name: ddhaSub
     cp: 0x0F9D
-    decompose: [0x0F9C, 0x0FB7]
+    decompose: [ddaSub, haSub]
 
 nna:
   - name: nna
@@ -107,10 +107,10 @@ da:
 dha:
   - name: dha
     cp: 0x0F52
-    decompose: [0x0F51, 0x0FB7]
+    decompose: [da, haSub]
   - name: dhaSub
     cp: 0x0FA2
-    decompose: [0x0FA1, 0x0FB7]
+    decompose: [daSub, haSub]
 
 na:
   - name: na
@@ -139,10 +139,10 @@ ba:
 bha:
   - name: bha
     cp: 0x0F57
-    decompose: [0x0F56, 0x0FB7]
+    decompose: [ba, haSub]
   - name: bhaSub
     cp: 0x0FA7
-    decompose: [0x0FA6, 0x0FB7]
+    decompose: [baSub, haSub]
 
 ma:
   - name: ma
@@ -153,28 +153,34 @@ ma:
 tsa:
   - name: tsa
     cp: 0x0F59
+    decompose: [ca, tsaXphru]
   - name: tsaSub
     cp: 0x0FA9
+    compose: [caSub, tsaXphru]
 
 tsha:
   - name: tsha
     cp: 0x0F5A
+    decompose: [cha, tsaXphru]
   - name: tshaSub
     cp: 0x0FAA
+    compose: [chaSub, tsaXphru]
 
 dza:
   - name: dza
     cp: 0x0F5B
+    decompose: [ja, tsaXphru]
   - name: dzaSub
     cp: 0x0FAB
+    compose: [jaSub, tsaXphru]
 
 dzha:
   - name: dzha
     cp: 0x0F5C
-    decompose: [0x0F5B, 0x0FB7]
+    decompose: [ja, tsaXphru, haSub]
   - name: dzhaSub
     cp: 0x0FAC
-    decompose: [0x0FAB, 0x0FB7]
+    decompose: [dzaSub, haSub]
 
 wa:
   - name: wa
@@ -261,10 +267,10 @@ qa:
 kssa:
   - name: kssa
     cp: 0x0F69
-    decompose: [0x0F40, 0x0FB5]
+    decompose: [ka, ssaSub]
   - name: kssaSub
-    cp: 0x0F99
-    decompose: [0x0F90, 0x0FB5]
+    cp: 0x0FB9
+    decompose: [kaSub, ssaSub]
 
 kka:
   - name: kka
@@ -285,7 +291,7 @@ i:
 ii:
   - name: ii
     cp: 0x0F73
-    decompose: [0x0F71, 0x0F72]
+    decompose: [aa, i]
 
 u:
   - name: u
@@ -294,27 +300,27 @@ u:
 uu:
   - name: uu
     cp: 0x0F75
-    decompose: [0x0F71, 0x0F74]
+    decompose: [aa, u]
 
 r:
   - name: r
     cp: 0x0F76
-    decompose: [0x0FB2, 0x0F80]
+    decompose: [rataSub, iMir]
 
 rr:
   - name: rr
     cp: 0x0F77
-    decompose: [0x0FB2, 0x0F71, 0x0F80]
+    decompose: [rataSub, aa, iMir]
 
 l:
   - name: l
     cp: 0x0F78
-    decompose: [0x0FB3, 0x0F80]
+    decompose: [laSub, iMir]
 
 ll:
   - name: ll
     cp: 0x0F79
-    decompose: [0x0FB3, 0x0F71, 0x0F80]
+    decompose: [laSub, aa, iMir]
 
 e:
   - name: e
@@ -323,7 +329,7 @@ e:
 ee:
   - name: ee
     cp: 0x0F7B
-    decompose: [0x0F7A, 0x0F7A]
+    compose: [e, e]
 
 o:
   - name: o
@@ -332,7 +338,7 @@ o:
 oo:
   - name: oo
     cp: 0x0F7D
-    decompose: [0x0F7C, 0x0F7C]
+    compose: [o, o]
 
 ir:
   - name: iMir
@@ -341,4 +347,8 @@ ir:
 iir:
   - name: iiMir
     cp: 0x0F81
-    decompose: [0x0F71, 0x0F80]
+    decompose: [aa, iMir]
+
+tsaXphru:
+  - name: tsaXphru
+    cp: 0x0F39
