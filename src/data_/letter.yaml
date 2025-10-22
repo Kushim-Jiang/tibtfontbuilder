@@ -352,3 +352,7 @@ iiMir:
 tsaXphru:
   - name: tsaXphru
     cp: 0x0F39
+
+anusvara:
+  - name: anusvara
+    cp: 0x0F7E
