@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import yaml
-from lib_.spec import FontSpec
+from lib_.spec import FontSpec, GlyphSpec
 from tptq.feacomposer import FeaComposer
 
 
@@ -20,7 +20,9 @@ def getGlyphName(cp: int) -> str:
     for variants in VARIANTS.values():
         for variant in variants:
             if "cp" in variant and variant["cp"] == cp:
+                assert isinstance(variant["name"], str)
                 return variant["name"]
+    return ""
 
 
 class TibtFeaComposer(FeaComposer):
@@ -33,7 +35,7 @@ class TibtFeaComposer(FeaComposer):
         self.classes = {}
         self.conditions = {}
 
-        super().__init__(languageSystems={"tibt": {"dflt"}})
+        super().__init__(languageSystems={"tibt": {"dflt"}}, glyphNameProcessor=(lambda x: x + "-tibt"))
 
     def compose(self) -> FontSpec:
         self.initVariants()
@@ -45,15 +47,22 @@ class TibtFeaComposer(FeaComposer):
 
     def initVariants(self) -> None:
         for letter, variants in VARIANTS.items():
-            variantNames = [variant["name"] for variant in variants]
+            variantNames: list[str] = []
+            for variant in variants:
+                assert isinstance(variant["name"], str)
+                if self.glyphNameProcessor(variant["name"]) not in self.glyphs:
+                    self.spec.newGlyphs[variant["name"]] = GlyphSpec([])
+                variantNames.append(variant["name"])
             self.classes[letter] = self.namedGlyphClass(letter, variantNames)
+
         for category, letters in CATEGORIES.items():
-            letters = [self.classes[l] for l in letters]
+            letters = [self.classes[letter] for letter in letters]
             self.classes[category] = self.namedGlyphClass(category, letters)
 
         subGlyphs = ["aa", "u"]
         for letter, variants in VARIANTS.items():
             for variant in variants:
+                assert isinstance(variant["name"], str)
                 if "Sub" in variant["name"]:
                     subGlyphs.append(variant["name"])
         self.classes["sub"] = self.namedGlyphClass("subGlyphs", subGlyphs)
@@ -63,16 +72,20 @@ class TibtFeaComposer(FeaComposer):
             for variants in VARIANTS.values():
                 for variant in variants:
                     if "decompose" in variant:
+                        assert isinstance(variant["cp"], int)
                         nominal = getGlyphName(variant["cp"])
                         decomposed = variant["decompose"]
+                        assert isinstance(decomposed, list)
                         c.sub(nominal, by=decomposed)
 
         with c.Lookup("Ia.letters.composition", feature="ccmp"):
             for variants in VARIANTS.values():
                 for variant in variants:
                     if "compose" in variant:
+                        assert isinstance(variant["cp"], int)
                         nominal = getGlyphName(variant["cp"])
                         composed = variant["compose"]
+                        assert isinstance(composed, list)
                         c.sub(*composed, by=nominal)
 
     def iia(self, c: TibtFeaComposer) -> None:
@@ -80,7 +93,8 @@ class TibtFeaComposer(FeaComposer):
 
         # rago
         letters = c.namedGlyphClass(
-            "ragoConsonants", [l + "Sub" for l in CATEGORIES["consonant"] if l not in ["nya", "la", "ra", "wa", "ya"]]
+            "ragoConsonants",
+            [letter + "Sub" for letter in CATEGORIES["consonant"] if letter not in ["nya", "la", "ra", "wa", "ya"]],
         )
         with c.Lookup("IIa.ra.rago", feature="rclt", flags={"UseMarkFilteringSet": letters}):
             c.sub(c.input("ra"), letters, by="rago")
@@ -104,7 +118,7 @@ class TibtFeaComposer(FeaComposer):
             [cl["tta"], cl["ttha"], cl["dda"], cl["nna"], cl["ssa"], cl["kka"], cl["rra"], "wataSubMir", "rataSubMir"],
         )
         with c.Lookup("IIa.mirror.consonants", feature="rclt", flags={"UseMarkFilteringSet": self.classes["sub"]}):
-            c.sub(mirConsonants, c.input(c.glyphClass(["wataSub", "rataSub", "yataSub"]), mirLookup))
+            c.sub(mirConsonants, c.input(c.glyphClass(["wataSub", "rataSub", "yataSub"]), mirLookup), by=None)
 
     def iib(self, c: TibtFeaComposer) -> None:
         ligatures = {}
@@ -131,3 +145,4 @@ if __name__ == "__main__":
     spec = composer.compose()
     code = composer.asFeatureFile().asFea()
     print(code)
+    print(spec)
