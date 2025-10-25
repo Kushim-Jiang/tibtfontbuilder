@@ -221,6 +221,8 @@ ya:
 ra:
   - name: ra
     cp: 0x0F62
+  - name: rha
+    cp: 0x0F6A
   - name: rago
   - name: rataSub
     cp: 0x0FB2
@@ -353,6 +355,32 @@ tsaXphru:
   - name: tsaXphru
     cp: 0x0F39
 
-anusvara:
-  - name: anusvara
+rjesSuNgaRo:
+  - name: rjesSuNgaRo
     cp: 0x0F7E
+
+snaLdan:
+  - name: snaLdan
+    cp: 0x0F83
+
+lceTsaCan:
+  - name: lceTsaCan
+    cp: 0x0F88
+  - name: lceTsaCanSub
+    cp: 0x0F8D
+
+mchuCan:
+  - name: mchuCan
+    cp: 0x0F89
+  - name: mchuCanSub
+    cp: 0x0F8E
+
+mchuCanInverted:
+  - name: mchuCanInverted
+    cp: 0x0F8C
+  - name: mchuCanInvertedSub
+    cp: 0x0F8F
+
+halanta:
+  - name: halanta
+    cp: 0x0F84
