@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import yaml
-from lib_.spec import FontSpec, GlyphSpec
+from .lib_.spec import FontSpec, GlyphSpec
 from tptq.feacomposer import FeaComposer
 
 
