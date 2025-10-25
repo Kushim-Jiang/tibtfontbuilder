@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rataSub-tibt" format="2">
+  <advance width="572"/>
+  <unicode hex="0FB2"/>
+  <anchor x="542" y="-164" name="bottomright"/>
+  <anchor x="286" y="-174" name="padmagdan"/>
+  <anchor x="277" y="-91" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="89" y="95"/>
+      <point x="63" y="92"/>
+      <point x="40" y="85" type="curve"/>
+      <point x="30" y="-1" type="line"/>
+      <point x="58" y="6"/>
+      <point x="87" y="9"/>
+      <point x="123" y="9" type="curve"/>
+      <point x="239" y="9"/>
+      <point x="329" y="-25"/>
+      <point x="496" y="-164" type="curve"/>
+      <point x="542" y="-174" type="line"/>
+      <point x="542" y="-152" type="line"/>
+      <point x="356" y="46"/>
+      <point x="252" y="95"/>
+      <point x="121" y="95" type="curve"/>
+    </contour>
+    <contour>
+      <point x="496" y="147" type="line"/>
+      <point x="496" y="-162" type="line"/>
+      <point x="542" y="-162" type="line"/>
+      <point x="542" y="147" type="line"/>
+    </contour>
+  </outline>
+</glyph>

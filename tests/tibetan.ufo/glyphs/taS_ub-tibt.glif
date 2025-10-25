@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taSub-tibt" format="2">
+  <advance width="558"/>
+  <unicode hex="0F9F"/>
+  <anchor x="498" y="-431" name="bottomright"/>
+  <anchor x="289" y="-472" name="padmagdan"/>
+  <anchor x="272" y="-472" name="bottom"/>
+  <anchor x="515" y="245" name="flag"/>
+  <outline>
+    <contour>
+      <point x="443" y="-281"/>
+      <point x="501" y="-192"/>
+      <point x="501" y="-94" type="curve"/>
+      <point x="501" y="8"/>
+      <point x="429" y="67"/>
+      <point x="324" y="67" type="curve"/>
+      <point x="240" y="67"/>
+      <point x="171" y="32"/>
+      <point x="133" y="-38" type="curve"/>
+      <point x="136" y="-78" type="line"/>
+      <point x="182" y="-33"/>
+      <point x="233" y="-12"/>
+      <point x="299" y="-12" type="curve"/>
+      <point x="375" y="-12"/>
+      <point x="417" y="-52"/>
+      <point x="417" y="-118" type="curve"/>
+      <point x="417" y="-183"/>
+      <point x="387" y="-249"/>
+      <point x="232" y="-431" type="curve"/>
+      <point x="249" y="-472" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="-24"/>
+      <point x="152" y="98"/>
+      <point x="156" y="195" type="curve"/>
+      <point x="64" y="245" type="line"/>
+      <point x="80" y="129"/>
+      <point x="94" y="-14"/>
+      <point x="102" y="-130" type="curve"/>
+      <point x="148" y="-156" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="159" type="line"/>
+      <point x="515" y="245" type="line"/>
+      <point x="64" y="245" type="line"/>
+      <point x="83" y="159" type="line"/>
+    </contour>
+  </outline>
+</glyph>

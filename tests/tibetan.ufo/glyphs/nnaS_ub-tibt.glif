@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnaSub-tibt" format="2">
+  <advance width="617"/>
+  <unicode hex="0F9E"/>
+  <anchor x="553" y="-261" name="bottomright"/>
+  <anchor x="306" y="-472" name="padmagdan"/>
+  <anchor x="342" y="-242" name="bottom"/>
+  <anchor x="573" y="245" name="flag"/>
+  <anchor x="86" y="-440" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="190" y="153"/>
+      <point x="163" y="67"/>
+      <point x="163" y="-19" type="curve"/>
+      <point x="163" y="-149"/>
+      <point x="246" y="-225"/>
+      <point x="374" y="-225" type="curve"/>
+      <point x="495" y="-225"/>
+      <point x="553" y="-161"/>
+      <point x="553" y="-77" type="curve"/>
+      <point x="553" y="20"/>
+      <point x="480" y="84"/>
+      <point x="344" y="84" type="curve"/>
+      <point x="169" y="84"/>
+      <point x="74" y="-6"/>
+      <point x="40" y="-440" type="curve"/>
+      <point x="86" y="-472" type="line"/>
+      <point x="130" y="-77"/>
+      <point x="204" y="-5"/>
+      <point x="354" y="-5" type="curve"/>
+      <point x="446" y="-5"/>
+      <point x="494" y="-39"/>
+      <point x="494" y="-92" type="curve"/>
+      <point x="494" y="-145"/>
+      <point x="455" y="-178"/>
+      <point x="374" y="-178" type="curve"/>
+      <point x="279" y="-178"/>
+      <point x="217" y="-128"/>
+      <point x="217" y="-27" type="curve"/>
+      <point x="217" y="59"/>
+      <point x="255" y="136"/>
+      <point x="315" y="201" type="curve"/>
+      <point x="231" y="213" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="245" type="line"/>
+      <point x="62" y="159" type="line"/>
+      <point x="553" y="159" type="line"/>
+      <point x="573" y="245" type="line"/>
+    </contour>
+  </outline>
+</glyph>

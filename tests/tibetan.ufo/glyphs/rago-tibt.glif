@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rago-tibt" format="2">
+  <advance width="620"/>
+  <anchor x="536" y="508" name="bottomright"/>
+  <anchor x="516" y="678" name="flag"/>
+  <anchor x="114" y="678" name="flag2"/>
+  <anchor x="305" y="450" name="padmagdan"/>
+  <anchor x="305" y="678" name="top"/>
+  <anchor x="94" y="678" name="topleft"/>
+  <anchor x="536" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="234" y="624" type="line"/>
+      <point x="278" y="591"/>
+      <point x="295" y="547"/>
+      <point x="295" y="505" type="curve"/>
+      <point x="295" y="486"/>
+      <point x="293" y="469"/>
+      <point x="287" y="452" type="curve"/>
+      <point x="322" y="450" type="line"/>
+      <point x="334" y="477"/>
+      <point x="341" y="506"/>
+      <point x="341" y="535" type="curve"/>
+      <point x="341" y="574"/>
+      <point x="333" y="619"/>
+      <point x="317" y="648" type="curve"/>
+    </contour>
+    <contour>
+      <point x="114" y="678" type="line"/>
+      <point x="94" y="592" type="line"/>
+      <point x="496" y="592" type="line"/>
+      <point x="516" y="678" type="line"/>
+    </contour>
+  </outline>
+</glyph>

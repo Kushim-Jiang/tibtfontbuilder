@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="2">
+  <advance width="600"/>
+  <anchor x="299" y="0" name="padmagdan"/>
+  <outline>
+    <contour>
+      <point x="505" y="0" type="line"/>
+      <point x="505" y="713" type="line"/>
+      <point x="94" y="713" type="line"/>
+      <point x="94" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="662" type="line"/>
+      <point x="454" y="662" type="line"/>
+      <point x="454" y="50" type="line"/>
+      <point x="145" y="50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

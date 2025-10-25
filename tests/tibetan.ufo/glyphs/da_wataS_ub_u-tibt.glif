@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="da_wataSub_u-tibt" format="2">
+  <advance width="579"/>
+  <anchor x="513" y="-410" name="bottomright"/>
+  <anchor x="337" y="-412" name="bottom"/>
+  <anchor x="533" y="678" name="flag"/>
+  <anchor x="286" y="-417" name="padmagdan"/>
+  <anchor x="290" y="678" name="top"/>
+  <anchor x="74" y="678" name="topleft"/>
+  <anchor x="553" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="85" y="546"/>
+      <point x="53" y="434"/>
+      <point x="32" y="317" type="curve"/>
+      <point x="67" y="285" type="line"/>
+      <point x="135" y="295"/>
+      <point x="209" y="301"/>
+      <point x="273" y="301" type="curve"/>
+      <point x="457" y="301"/>
+      <point x="487" y="229"/>
+      <point x="512" y="-118" type="curve"/>
+      <point x="558" y="-146" type="line"/>
+      <point x="546" y="289"/>
+      <point x="495" y="393"/>
+      <point x="283" y="393" type="curve"/>
+      <point x="216" y="393"/>
+      <point x="142" y="386"/>
+      <point x="76" y="376" type="curve"/>
+      <point x="79" y="345" type="line"/>
+      <point x="104" y="430"/>
+      <point x="143" y="535"/>
+      <point x="198" y="620" type="curve"/>
+      <point x="116" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="678" type="line"/>
+      <point x="64" y="592" type="line"/>
+      <point x="513" y="592" type="line"/>
+      <point x="533" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="166" type="line"/>
+      <point x="446" y="146"/>
+      <point x="343" y="89"/>
+      <point x="294" y="46" type="curve"/>
+      <point x="294" y="5" type="line"/>
+      <point x="370" y="-33"/>
+      <point x="449" y="-85"/>
+      <point x="512" y="-145" type="curve"/>
+      <point x="559" y="-155" type="line"/>
+      <point x="556" y="-118" type="line"/>
+      <point x="512" y="-79" type="line"/>
+      <point x="512" y="-138" type="line"/>
+      <point x="535" y="-138" type="line"/>
+      <point x="535" y="-108" type="line"/>
+      <point x="495" y="-49"/>
+      <point x="420" y="27"/>
+      <point x="371" y="60" type="curve"/>
+      <point x="331" y="38" type="line"/>
+      <point x="330" y="13" type="line"/>
+      <point x="375" y="53"/>
+      <point x="459" y="100"/>
+      <point x="522" y="117" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-27" y="-111" type="line"/>
+      <point x="192" y="-289"/>
+      <point x="259" y="-417"/>
+      <point x="428" y="-417" type="curve"/>
+      <point x="538" y="-417"/>
+      <point x="600" y="-345"/>
+      <point x="600" y="-252" type="curve"/>
+      <point x="600" y="-174"/>
+      <point x="547" y="-116"/>
+      <point x="464" y="-116" type="curve"/>
+      <point x="432" y="-116"/>
+      <point x="401" y="-127"/>
+      <point x="382" y="-146" type="curve"/>
+      <point x="396" y="-232" type="line"/>
+      <point x="420" y="-214"/>
+      <point x="449" y="-205"/>
+      <point x="481" y="-205" type="curve"/>
+      <point x="526" y="-205"/>
+      <point x="553" y="-228"/>
+      <point x="553" y="-262" type="curve"/>
+      <point x="553" y="-298"/>
+      <point x="520" y="-328"/>
+      <point x="458" y="-328" type="curve"/>
+      <point x="291" y="-328"/>
+      <point x="230" y="-232"/>
+      <point x="7" y="-83" type="curve"/>
+    </contour>
+    <contour>
+      <point x="467" y="-165" type="line"/>
+      <point x="513" y="-165" type="line"/>
+      <point x="513" y="-155" type="line"/>
+      <point x="467" y="-155" type="line"/>
+    </contour>
+  </outline>
+</glyph>

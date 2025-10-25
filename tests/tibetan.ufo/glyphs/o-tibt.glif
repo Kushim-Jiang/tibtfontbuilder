@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o-tibt" format="2">
+  <advance width="874"/>
+  <unicode hex="0F7C"/>
+  <anchor x="380" y="938" name="top"/>
+  <anchor x="437" y="710" name="padmagdan"/>
+  <anchor x="159" y="1002" name="topleft"/>
+  <anchor x="636" y="962" name="topright"/>
+  <outline>
+    <contour>
+      <point x="437" y="862"/>
+      <point x="467" y="878"/>
+      <point x="524" y="885" type="curve"/>
+      <point x="570" y="891"/>
+      <point x="632" y="893"/>
+      <point x="689" y="905" type="curve"/>
+      <point x="769" y="922"/>
+      <point x="810" y="963"/>
+      <point x="844" y="1041" type="curve"/>
+      <point x="812" y="1078" type="line"/>
+      <point x="789" y="1030"/>
+      <point x="759" y="1003"/>
+      <point x="696" y="991" type="curve"/>
+      <point x="648" y="982"/>
+      <point x="597" y="981"/>
+      <point x="533" y="973" type="curve"/>
+      <point x="458" y="964"/>
+      <point x="410" y="926"/>
+      <point x="377" y="828" type="curve"/>
+      <point x="409" y="803" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="746" type="line"/>
+      <point x="287" y="973"/>
+      <point x="210" y="1019"/>
+      <point x="119" y="1019" type="curve"/>
+      <point x="94" y="1019"/>
+      <point x="67" y="1015"/>
+      <point x="45" y="1005" type="curve"/>
+      <point x="30" y="917" type="line"/>
+      <point x="55" y="925"/>
+      <point x="79" y="929"/>
+      <point x="105" y="929" type="curve"/>
+      <point x="179" y="929"/>
+      <point x="260" y="896"/>
+      <point x="450" y="710" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

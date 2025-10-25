@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khaSub-tibt" format="2">
+  <advance width="655"/>
+  <unicode hex="0F91"/>
+  <anchor x="578" y="-244" name="bottomright"/>
+  <anchor x="335" y="-285" name="padmagdan"/>
+  <anchor x="370" y="-189" name="bottom"/>
+  <anchor x="598" y="245" name="flag"/>
+  <anchor x="110" y="-267" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="115" y="-57"/>
+      <point x="125" y="52"/>
+      <point x="147" y="159" type="curve"/>
+      <point x="495" y="159" type="line"/>
+      <point x="536" y="59"/>
+      <point x="562" y="-54"/>
+      <point x="564" y="-162" type="curve"/>
+      <point x="568" y="-148" type="line"/>
+      <point x="486" y="-39"/>
+      <point x="397" y="5"/>
+      <point x="299" y="5" type="curve"/>
+      <point x="294" y="5"/>
+      <point x="285" y="4"/>
+      <point x="279" y="3" type="curve"/>
+      <point x="283" y="-31" type="line"/>
+      <point x="311" y="47"/>
+      <point x="356" y="142"/>
+      <point x="412" y="219" type="curve"/>
+      <point x="328" y="232" type="line"/>
+      <point x="293" y="152"/>
+      <point x="259" y="50"/>
+      <point x="235" y="-58" type="curve"/>
+      <point x="258" y="-87" type="line"/>
+      <point x="269" y="-86"/>
+      <point x="282" y="-85"/>
+      <point x="292" y="-85" type="curve"/>
+      <point x="400" y="-85"/>
+      <point x="483" y="-119"/>
+      <point x="566" y="-203" type="curve"/>
+      <point x="606" y="-186" type="line"/>
+      <point x="604" y="-62"/>
+      <point x="594" y="61"/>
+      <point x="578" y="159" type="curve"/>
+      <point x="598" y="245" type="line"/>
+      <point x="64" y="245" type="line"/>
+      <point x="64" y="-267" type="line"/>
+      <point x="110" y="-285" type="line"/>
+    </contour>
+  </outline>
+</glyph>

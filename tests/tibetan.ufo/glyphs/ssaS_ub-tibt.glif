@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssaSub-tibt" format="2">
+  <advance width="573"/>
+  <unicode hex="0FB5"/>
+  <anchor x="532" y="-440" name="bottomright"/>
+  <anchor x="328" y="-472" name="padmagdan"/>
+  <anchor x="361" y="-301" name="bottom"/>
+  <anchor x="421" y="245" name="flag"/>
+  <anchor x="110" y="-447" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="112" y="-163"/>
+      <point x="123" y="5"/>
+      <point x="148" y="159" type="curve"/>
+      <point x="286" y="159" type="line"/>
+      <point x="378" y="159"/>
+      <point x="426" y="113"/>
+      <point x="426" y="49" type="curve"/>
+      <point x="426" y="-19"/>
+      <point x="379" y="-65"/>
+      <point x="282" y="-65" type="curve"/>
+      <point x="221" y="-65"/>
+      <point x="162" y="-44"/>
+      <point x="116" y="10" type="curve"/>
+      <point x="116" y="-31" type="line"/>
+      <point x="157" y="-108"/>
+      <point x="221" y="-153"/>
+      <point x="291" y="-153" type="curve"/>
+      <point x="358" y="-153"/>
+      <point x="401" y="-120"/>
+      <point x="422" y="-74" type="curve"/>
+      <point x="426" y="-74" type="line"/>
+      <point x="426" y="-209" type="line"/>
+      <point x="470" y="-206" type="line"/>
+      <point x="470" y="43" type="line"/>
+      <point x="470" y="157"/>
+      <point x="395" y="245"/>
+      <point x="266" y="245" type="curve"/>
+      <point x="64" y="245" type="line"/>
+      <point x="64" y="-447" type="line"/>
+      <point x="110" y="-472" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="-233"/>
+      <point x="492" y="-214"/>
+      <point x="555" y="-214" type="curve"/>
+      <point x="567" y="-214"/>
+      <point x="582" y="-215"/>
+      <point x="593" y="-218" type="curve"/>
+      <point x="584" y="-129" type="line"/>
+      <point x="574" y="-126"/>
+      <point x="562" y="-125"/>
+      <point x="551" y="-125" type="curve"/>
+      <point x="474" y="-125"/>
+      <point x="412" y="-167"/>
+      <point x="340" y="-275" type="curve"/>
+      <point x="381" y="-285" type="line"/>
+    </contour>
+  </outline>
+</glyph>
