@@ -1,0 +1,775 @@
+F5F9	qa aa	qa aa
+F5FA	qa ii	qa ii
+F5FB	qa uu	qa uu
+F5FC	ra iMir	ra iMir
+F5FD	ra iiMir	ra iiMir
+F5FE	la iMir	la iMir
+F5FF	la iiMir	la iiMir
+F600	qa ee	qa ee
+F601	qa aa o	qa aa o
+F602	qa oo	qa oo
+F603	qa rjesSuNgaRo	qa rjesSuNgaRo
+F604	qa snaLdan	qa snaLdan
+F605	qa aa rjesSuNgaRo	qa aa rjesSuNgaRo
+F606	qa i rjesSuNgaRo	qa i rjesSuNgaRo
+F607	qa ii rjesSuNgaRo	qa ii rjesSuNgaRo
+F608	qa u rjesSuNgaRo	qa u rjesSuNgaRo
+F609	qa uu rjesSuNgaRo	qa uu rjesSuNgaRo
+F60A	qa uu snaLdan	qa uu snaLdan
+F60B	ra iMir rjesSuNgaRo	ra iMir rjesSuNgaRo
+F60C	la iMir rjesSuNgaRo	la iMir rjesSuNgaRo
+F60D	qa aa o rjesSuNgaRo	qa aa o rjesSuNgaRo
+F60E	qa aa o snaLdan	qa aa o snaLdan
+F60F	qa oo rjesSuNgaRo	qa oo rjesSuNgaRo
+F610	qa yataSub o	qa yataSub o
+F611	qa yataSub oo	qa yataSub oo
+F612	ka ii	ka ii
+F613	ka uu	ka uu
+F614	ka rr	ka rr
+F615	ka ll	ka ll
+F616	ka aa e	ka aa e
+F617	ka ee	ka ee
+F618	ka oo	ka oo
+F619	ka rjesSuNgaRo	ka rjesSuNgaRo
+F61A	ka aa rjesSuNgaRo	ka aa rjesSuNgaRo
+F61B	lceTsaCan kaSub	lceTsaCan kaSub
+F61C	ka kaSub	ka kaSub
+F61D	ka kaSub aa	ka kaSub aa
+F61E	ka kaSub i	ka kaSub i
+F61F	ka kaSub u	ka kaSub u
+F620	ka ngaSub	ka ngaSub
+F621	ka ngaSub u	ka ngaSub u
+F622	ka ngaSub ee	ka ngaSub ee
+F623	ka ngaSub o	ka ngaSub o
+F624	ka tsaSub e	ka tsaSub e
+F625	ka tshaSub i	ka tshaSub i
+F626	ka tshaSub u	ka tshaSub u
+F627	ka ttaSub	ka ttaSub
+F628	ka ttaSub i	ka ttaSub i
+F629	ka ttaSub o	ka ttaSub o
+F62A	ka nnaSub i	ka nnaSub i
+F62B	ka nnaSub e	ka nnaSub e
+F62C	ka nnaSub o	ka nnaSub o
+F62D	ka taSub	ka taSub
+F62E	ka taSub aa	ka taSub aa
+F62F	ka taSub i	ka taSub i
+F630	ka taSub ii	ka taSub ii
+F631	ka taSub e	ka taSub e
+F632	ka taSub o	ka taSub o
+F633	ka taSub rataSub i	ka taSub rataSub i
+F634	ka thaSub o	ka thaSub o
+F635	ka thaSub rjesSuNgaRo	ka thaSub rjesSuNgaRo
+F636	ka maSub	ka maSub
+F637	ka yataSub aa	ka yataSub aa
+F638	ka yataSub ee	ka yataSub ee
+F639	ka rataSub ii	ka rataSub ii
+F63A	ka rataSub uu	ka rataSub uu
+F63B	ka rataSub i rjesSuNgaRo	ka rataSub i rjesSuNgaRo
+F63C	ka rataSub uu rjesSuNgaRo	ka rataSub uu rjesSuNgaRo
+F63D	ka laSub ee	ka laSub ee
+F63E	ka wataSub i	ka wataSub i
+F63F	ka wataSub e	ka wataSub e
+F640	ka wataSub rjesSuNgaRo	ka wataSub rjesSuNgaRo
+F641	ka shaSub i	ka shaSub i
+F642	ka shaSub rataSub u snaLdan	ka shaSub rataSub u snaLdan
+F643	ka ssaSub ii	ka ssaSub ii
+F644	ka ssaSub uu	ka ssaSub uu
+F645	ka ssaSub r	ka ssaSub r
+F646	ka ssaSub rr	ka ssaSub rr
+F647	ka ssaSub l	ka ssaSub l
+F648	ka ssaSub ll	ka ssaSub ll
+F649	ka ssaSub ee	ka ssaSub ee
+F64A	ka ssaSub oo	ka ssaSub oo
+F64B	ka ssaSub rjesSuNgaRo	ka ssaSub rjesSuNgaRo
+F64C	ka ssaSub aa rjesSuNgaRo	ka ssaSub aa rjesSuNgaRo
+F64D	ka ssaSub nnaSub	ka ssaSub nnaSub
+F64E	ka ssaSub maSub	ka ssaSub maSub
+F64F	ka ssaSub maSub aa	ka ssaSub maSub aa
+F650	ka ssaSub maSub i	ka ssaSub maSub i
+F651	ka ssaSub maSub e	ka ssaSub maSub e
+F652	ka ssaSub yataSub	ka ssaSub yataSub
+F653	ka ssaSub rataSub	ka ssaSub rataSub
+F654	ka saSub rjesSuNgaRo	ka saSub rjesSuNgaRo
+F655	kha ii	kha ii
+F656	kha rr	kha rr
+F657	kha ee	kha ee
+F658	kha oo	kha oo
+F659	kha rjesSuNgaRo	kha rjesSuNgaRo
+F65A	kha i rjesSuNgaRo	kha i rjesSuNgaRo
+F65B	kha u rjesSuNgaRo	kha u rjesSuNgaRo
+F65C	lceTsaCan khaSub	lceTsaCan khaSub
+F65D	kha ttaSub	kha ttaSub
+F65E	kha yataSub aa	kha yataSub aa
+F65F	kha yataSub ee	kha yataSub ee
+F660	kha yataSub e e e	kha yataSub e e e
+F661	kha rataSub aa	kha rataSub aa
+F662	kha rataSub rjesSuNgaRo	kha rataSub rjesSuNgaRo
+F663	kha rataSub u rjesSuNgaRo	kha rataSub u rjesSuNgaRo
+F664	kha laSub	kha laSub
+F665	kha wataSub uu	kha wataSub uu
+F666	ga ii	ga ii
+F667	ga iiMir	ga iiMir
+F668	ga rr	ga rr
+F669	ga ee	ga ee
+F66A	ga aa o	ga aa o
+F66B	ga oo	ga oo
+F66C	ga rjesSuNgaRo	ga rjesSuNgaRo
+F66D	ga u rjesSuNgaRo	ga u rjesSuNgaRo
+F66E	ga gaSub aa	ga gaSub aa
+F66F	ga gaSub i	ga gaSub i
+F670	ga gaSub u	ga gaSub u
+F671	ga ngaSub e	ga ngaSub e
+F672	ga nyaSub	ga nyaSub
+F673	ga nnaSub i	ga nnaSub i
+F674	ga taSub	ga taSub
+F675	ga taSub u	ga taSub u
+F676	ga taSub o	ga taSub o
+F677	ga dhaSub i	ga dhaSub i
+F678	ga naSub	ga naSub
+F679	ga naSub i	ga naSub i
+F67A	ga naSub ii	ga naSub ii
+F67B	ga naSub e	ga naSub e
+F67C	ga maSub	ga maSub
+F67D	ga yataSub aa	ga yataSub aa
+F67E	ga yataSub wataSub i	ga yataSub wataSub i
+F67F	ga rataSub aa	ga rataSub aa
+F680	ga wataSub i	ga wataSub i
+F681	ga saSub	ga saSub
+F682	ga saSub i	ga saSub i
+F683	gha uu	gha uu
+F684	gha rataSub	gha rataSub
+F685	gha rataSub aa	gha rataSub aa
+F686	gha rataSub i	gha rataSub i
+F687	gha rataSub ii	gha rataSub ii
+F688	gha laSub	gha laSub
+F689	gha wataSub	gha wataSub
+F68A	nga uu	nga uu
+F68B	nga aa o	nga aa o
+F68C	nga kaSub	nga kaSub
+F68D	nga kaSub aa	nga kaSub aa
+F68E	nga kaSub u	nga kaSub u
+F68F	nga kaSub r	nga kaSub r
+F690	nga kaSub e	nga kaSub e
+F691	nga khaSub	nga khaSub
+F692	nga gaSub	nga gaSub
+F693	nga gaSub aa	nga gaSub aa
+F694	nga gaSub i	nga gaSub i
+F695	nga gaSub ii	nga gaSub ii
+F696	nga gaSub u	nga gaSub u
+F697	nga gaSub e	nga gaSub e
+F698	nga ngaSub	nga ngaSub
+F699	nga laSub	nga laSub
+F69A	nga shaSub	nga shaSub
+F69B	nga shaSub i	nga shaSub i
+F69C	nga shaSub u	nga shaSub u
+F69D	tsa halanta	tsa halanta
+F69E	tsa ii	tsa ii
+F69F	tsa iiMir	tsa iiMir
+F6A0	tsa uu	tsa uu
+F6A1	tsa r	tsa r
+F6A2	tsa rr	tsa rr
+F6A3	tsa aa e	tsa aa e
+F6A4	tsa ee	tsa ee
+F6A5	tsa aa o	tsa aa o
+F6A6	tsa oo	tsa oo
+F6A7	tsa rjesSuNgaRo	tsa rjesSuNgaRo
+F6A8	tsa tsaSub	tsa tsaSub
+F6A9	tsa tsaSub aa	tsa tsaSub aa
+F6AA	tsa tshaSub	tsa tshaSub
+F6AB	tsa tshaSub aa	tsa tshaSub aa
+F6AC	tsa tshaSub i	tsa tshaSub i
+F6AD	tsa tshaSub e	tsa tshaSub e
+F6AE	tsa yataSub ee	tsa yataSub ee
+F6AF	tsa laSub	tsa laSub
+F6B0	tsa wataSub	tsa wataSub
+F6B1	tsa wataSub aa	tsa wataSub aa
+F6B2	tsha ii	tsha ii
+F6B3	tsha uu	tsha uu
+F6B4	tsha tsaSub	tsha tsaSub
+F6B5	tsha tshaSub aa	tsha tshaSub aa
+F6B6	tsha yataSub	tsha yataSub
+F6B7	tsha wataSub aa	tsha wataSub aa
+F6B8	tsha wataSub o	tsha wataSub o
+F6B9	dza ii	dza ii
+F6BA	dza uu	dza uu
+F6BB	dza r	dza r
+F6BC	dza aa e	dza aa e
+F6BD	dza dzaSub u	dza dzaSub u
+F6BE	dza nyaSub	dza nyaSub
+F6BF	dza nyaSub aa	dza nyaSub aa
+F6C0	dza nyaSub i	dza nyaSub i
+F6C1	dza nyaSub ii	dza nyaSub ii
+F6C2	dza daSub	dza daSub
+F6C3	dza yataSub	dza yataSub
+F6C4	dza yataSub o	dza yataSub o
+F6C5	dza rataSub	dza rataSub
+F6C6	dza rataSub aa	dza rataSub aa
+F6C7	dza rataSub i	dza rataSub i
+F6C8	dza rataSub e	dza rataSub e
+F6C9	dza wataSub	dza wataSub
+F6CA	dza wataSub ii	dza wataSub ii
+F6CB	dzha ee	dzha ee
+F6CC	nya ii	nya ii
+F6CD	nya iiMir	nya iiMir
+F6CE	nya tsaSub	nya tsaSub
+F6CF	nya tsaSub aa	nya tsaSub aa
+F6D0	nya tsaSub i	nya tsaSub i
+F6D1	nya tsaSub u	nya tsaSub u
+F6D2	nya tsaSub o	nya tsaSub o
+F6D3	nya tshaSub	nya tshaSub
+F6D4	nya tshaSub i	nya tshaSub i
+F6D5	nya dzaSub	nya dzaSub
+F6D6	nya dzaSub aa	nya dzaSub aa
+F6D7	nya dzaSub i	nya dzaSub i
+F6D8	nya dzaSub u	nya dzaSub u
+F6D9	nya dzhaSub	nya dzhaSub
+F6DA	nya nyaSub	nya nyaSub
+F6DB	nya laSub i	nya laSub i
+F6DC	tta ii	tta ii
+F6DD	tta uu	tta uu
+F6DE	tta rjesSuNgaRo	tta rjesSuNgaRo
+F6DF	tta kaSub	tta kaSub
+F6E0	tta kaSub rjesSuNgaRo	tta kaSub rjesSuNgaRo
+F6E1	tta ttaSub	tta ttaSub
+F6E2	tta ttaSub i	tta ttaSub i
+F6E3	tta yaSub	tta yaSub
+F6E4	tta yaSub ee	tta yaSub ee
+F6E5	tta wataSub aa rjesSuNgaRo	tta wataSub aa rjesSuNgaRo
+F6E6	ttha r	ttha r
+F6E7	ttha yataSub	ttha yataSub
+F6E8	dda ii	dda ii
+F6E9	dda uu	dda uu
+F6EA	dda l	dda l
+F6EB	dda rjesSuNgaRo	dda rjesSuNgaRo
+F6EC	dda o rjesSuNgaRo	dda o rjesSuNgaRo
+F6ED	dda gaSub	dda gaSub
+F6EE	dda gaSub rataSub	dda gaSub rataSub
+F6EF	dda ddaSub	dda ddaSub
+F6F0	dda ddhaSub	dda ddhaSub
+F6F1	dda nnaSub aa	dda nnaSub aa
+F6F2	dda yaSub	dda yaSub
+F6F3	ddha uu	ddha uu
+F6F4	ddha rataSub	ddha rataSub
+F6F5	nna ii	nna ii
+F6F6	nna uu	nna uu
+F6F7	nna aa rjesSuNgaRo	nna aa rjesSuNgaRo
+F6F8	nna ttaSub	nna ttaSub
+F6F9	nna ttaSub i	nna ttaSub i
+F6FA	nna ttaSub e	nna ttaSub e
+F6FB	nna ddaSub	nna ddaSub
+F6FC	nna ddaSub i	nna ddaSub i
+F6FD	nna ddaSub e	nna ddaSub e
+F6FE	nna ddaSub o	nna ddaSub o
+F6FF	nna ddhaSub	nna ddhaSub
+F700	nna nnaSub	nna nnaSub
+F701	nna nnaSub i	nna nnaSub i
+F702	nna nnaSub e	nna nnaSub e
+F703	nna yataSub	nna yataSub
+F704	nna yataSub aa	nna yataSub aa
+F705	nna yataSub e	nna yataSub e
+F706	nna yataSub rjesSuNgaRo	nna yataSub rjesSuNgaRo
+F707	ta ii	ta ii
+F708	ta rr	ta rr
+F709	ta aa e	ta aa e
+F70A	ta ee	ta ee
+F70B	ta aa o	ta aa o
+F70C	ta oo	ta oo
+F70D	ta rjesSuNgaRo	ta rjesSuNgaRo
+F70E	ta snaLdan	ta snaLdan
+F70F	ta aa rjesSuNgaRo	ta aa rjesSuNgaRo
+F710	ta i rjesSuNgaRo	ta i rjesSuNgaRo
+F711	ta ii rjesSuNgaRo	ta ii rjesSuNgaRo
+F712	ta kaSub	ta kaSub
+F713	ta kaSub aa	ta kaSub aa
+F714	ta kaSub u	ta kaSub u
+F715	ta taSub	ta taSub
+F716	ta taSub aa	ta taSub aa
+F717	ta taSub i	ta taSub i
+F718	ta taSub u	ta taSub u
+F719	ta taSub snaLdan	ta taSub snaLdan
+F71A	ta taSub aa rjesSuNgaRo	ta taSub aa rjesSuNgaRo
+F71B	ta taSub rataSub	ta taSub rataSub
+F71C	ta thaSub aa	ta thaSub aa
+F71D	ta naSub	ta naSub
+F71E	ta naSub aa	ta naSub aa
+F71F	ta naSub e	ta naSub e
+F720	ta paSub	ta paSub
+F721	ta paSub u	ta paSub u
+F722	ta paSub uu	ta paSub uu
+F723	ta maSub	ta maSub
+F724	ta maSub aa	ta maSub aa
+F725	ta maSub yataSub	ta maSub yataSub
+F726	ta yataSub	ta yataSub
+F727	ta yataSub aa	ta yataSub aa
+F728	ta yataSub u	ta yataSub u
+F729	ta yataSub e	ta yataSub e
+F72A	ta yataSub rjesSuNgaRo	ta yataSub rjesSuNgaRo
+F72B	ta rataSub aa	ta rataSub aa
+F72C	ta rataSub ii	ta rataSub ii
+F72D	ta rataSub uu	ta rataSub uu
+F72E	ta rataSub ee	ta rataSub ee
+F72F	ta rataSub oo	ta rataSub oo
+F730	ta rataSub rjesSuNgaRo	ta rataSub rjesSuNgaRo
+F731	ta rataSub aa rjesSuNgaRo	ta rataSub aa rjesSuNgaRo
+F732	ta rataSub aa snaLdan	ta rataSub aa snaLdan
+F733	ta rataSub i rjesSuNgaRo	ta rataSub i rjesSuNgaRo
+F734	ta rataSub ii rjesSuNgaRo	ta rataSub ii rjesSuNgaRo
+F735	ta raSub yataSub	ta raSub yataSub
+F736	ta raSub yataSub rjesSuNgaRo	ta raSub yataSub rjesSuNgaRo
+F737	ta wataSub	ta wataSub
+F738	ta wataSub aa	ta wataSub aa
+F739	ta wataSub i	ta wataSub i
+F73A	ta wataSub e	ta wataSub e
+F73B	ta wataSub rjesSuNgaRo	ta wataSub rjesSuNgaRo
+F73C	ta wataSub aa rjesSuNgaRo	ta wataSub aa rjesSuNgaRo
+F73D	ta saSub rjesSuNgaRo	ta saSub rjesSuNgaRo
+F73E	tha ii	tha ii
+F73F	tha uu	tha uu
+F740	tha rr	tha rr
+F741	tha aa e	tha aa e
+F742	tha aa o	tha aa o
+F743	tha yataSub	tha yataSub
+F744	tha laSub haSub ii rjesSuNgaRo	tha laSub haSub ii rjesSuNgaRo
+F745	tha wataSub	tha wataSub
+F746	tha haSub rataSub i	tha haSub rataSub i
+F747	da ii	da ii
+F748	da uu	da uu
+F749	da ee	da ee
+F74A	da aa o	da aa o
+F74B	da oo	da oo
+F74C	da rjesSuNgaRo	da rjesSuNgaRo
+F74D	da u rjesSuNgaRo	da u rjesSuNgaRo
+F74E	da gaSub	da gaSub
+F74F	da gaSub aa	da gaSub aa
+F750	da ghaSub	da ghaSub
+F751	da ghaSub aa	da ghaSub aa
+F752	da ngaSub	da ngaSub
+F753	da daSub	da daSub
+F754	da daSub aa	da daSub aa
+F755	da dhaSub	da dhaSub
+F756	da dhaSub aa	da dhaSub aa
+F757	da dhaSub i	da dhaSub i
+F758	da dhaSub ii	da dhaSub ii
+F759	da dhaSub u	da dhaSub u
+F75A	da dhaSub e	da dhaSub e
+F75B	da dhaSub o	da dhaSub o
+F75C	da dhaSub yataSub	da dhaSub yataSub
+F75D	da dhaSub rataSub	da dhaSub rataSub
+F75E	da naSub	da naSub
+F75F	da bhaSub	da bhaSub
+F760	da bhaSub u	da bhaSub u
+F761	da bhaSub uu	da bhaSub uu
+F762	da maSub	da maSub
+F763	da maSub aa	da maSub aa
+F764	da maSub i	da maSub i
+F765	da maSub u	da maSub u
+F766	da maSub e	da maSub e
+F767	da maSub o	da maSub o
+F768	da yaSub	da yaSub
+F769	da yaSub aa	da yaSub aa
+F76A	da yaSub e	da yaSub e
+F76B	da yaSub o	da yaSub o
+F76C	da rataSub aa	da rataSub aa
+F76D	da rataSub ii	da rataSub ii
+F76E	da rataSub uu	da rataSub uu
+F76F	da rataSub ee	da rataSub ee
+F770	da rataSub rjesSuNgaRo	da rataSub rjesSuNgaRo
+F771	da rataSub aa rjesSuNgaRo	da rataSub aa rjesSuNgaRo
+F772	da rataSub uu snaLdan	da rataSub uu snaLdan
+F773	da wataSub aa	da wataSub aa
+F774	da wataSub ii	da wataSub ii
+F775	da wataSub rjesSuNgaRo	da wataSub rjesSuNgaRo
+F776	dha ii	dha ii
+F777	dha uu	dha uu
+F778	dha r	dha r
+F779	dha yataSub	dha yataSub
+F77A	dha yataSub aa	dha yataSub aa
+F77B	dha yataSub e	dha yataSub e
+F77C	dha rataSub u	dha rataSub u
+F77D	dha wataSub	dha wataSub
+F77E	dha wataSub aa	dha wataSub aa
+F77F	dha wataSub rjesSuNgaRo	dha wataSub rjesSuNgaRo
+F780	na ii	na ii
+F781	na uu	na uu
+F782	na r	na r
+F783	na aa e	na aa e
+F784	na ee	na ee
+F785	na aa o	na aa o
+F786	na oo	na oo
+F787	na rjesSuNgaRo	na rjesSuNgaRo
+F788	na kaSub	na kaSub
+F789	na dzaSub	na dzaSub
+F78A	na taSub	na taSub
+F78B	na taSub aa	na taSub aa
+F78C	na taSub i	na taSub i
+F78D	na taSub ii	na taSub ii
+F78E	na taSub u	na taSub u
+F78F	na taSub uu	na taSub uu
+F790	na taSub e	na taSub e
+F791	na taSub rjesSuNgaRo	na taSub rjesSuNgaRo
+F792	na taSub rataSub	na taSub rataSub
+F793	na taSub rataSub aa	na taSub rataSub aa
+F794	na taSub rataSub i	na taSub rataSub i
+F795	na thaSub	na thaSub
+F796	na thaSub aa	na thaSub aa
+F797	na daSub	na daSub
+F798	na daSub i	na daSub i
+F799	na daSub u	na daSub u
+F79A	na daSub e	na daSub e
+F79B	na daSub rataSub	na daSub rataSub
+F79C	na daSub rataSub aa	na daSub rataSub aa
+F79D	na daSub rataSub i	na daSub rataSub i
+F79E	na daSub rataSub ii	na daSub rataSub ii
+F79F	na dhaSub	na dhaSub
+F7A0	na dhaSub i	na dhaSub i
+F7A1	na dhaSub u	na dhaSub u
+F7A2	na dhaSub e	na dhaSub e
+F7A3	na dhaSub o	na dhaSub o
+F7A4	na naSub	na naSub
+F7A5	na naSub aa	na naSub aa
+F7A6	na naSub i	na naSub i
+F7A7	na naSub u	na naSub u
+F7A8	na naSub e	na naSub e
+F7A9	na paSub aa	na paSub aa
+F7AA	na baSub rataSub i	na baSub rataSub i
+F7AB	na bhaSub	na bhaSub
+F7AC	na maSub	na maSub
+F7AD	na maSub aa	na maSub aa
+F7AE	na maSub i	na maSub i
+F7AF	na yataSub	na yataSub
+F7B0	na yataSub aa	na yataSub aa
+F7B1	na yataSub o	na yataSub o
+F7B2	na yataSub rjesSuNgaRo	na yataSub rjesSuNgaRo
+F7B3	na yataSub aa rjesSuNgaRo	na yataSub aa rjesSuNgaRo
+F7B4	na rataSub	na rataSub
+F7B5	na rataSub aa	na rataSub aa
+F7B6	na rataSub e	na rataSub e
+F7B7	na laSub	na laSub
+F7B8	na wataSub	na wataSub
+F7B9	na wataSub aa	na wataSub aa
+F7BA	pa ii	pa ii
+F7BB	pa uu	pa uu
+F7BC	pa aa e	pa aa e
+F7BD	pa ee	pa ee
+F7BE	pa aa o	pa aa o
+F7BF	pa oo	pa oo
+F7C0	pa rjesSuNgaRo	pa rjesSuNgaRo
+F7C1	pa u rjesSuNgaRo	pa u rjesSuNgaRo
+F7C2	mchuCan paSub	mchuCan paSub
+F7C3	pa taSub	pa taSub
+F7C4	pa taSub aa	pa taSub aa
+F7C5	pa taSub i	pa taSub i
+F7C6	pa taSub e	pa taSub e
+F7C7	pa taSub o	pa taSub o
+F7C8	pa daSub	pa daSub
+F7C9	pa phaSub	pa phaSub
+F7CA	pa yataSub wataSub	pa yataSub wataSub
+F7CB	pa rataSub aa	pa rataSub aa
+F7CC	pa rataSub ii	pa rataSub ii
+F7CD	pa rataSub uu	pa rataSub uu
+F7CE	pa laSub u	pa laSub u
+F7CF	pha ii	pha ii
+F7D0	pha uu	pha uu
+F7D1	pha aa o	pha aa o
+F7D2	pha e rjesSuNgaRo	pha e rjesSuNgaRo
+F7D3	mchuCan phaSub	mchuCan phaSub
+F7D4	pha phaSub	pha phaSub
+F7D5	pha yataSub aa	pha yataSub aa
+F7D6	pha rataSub ii	pha rataSub ii
+F7D7	pha rataSub u rjesSuNgaRo	pha rataSub u rjesSuNgaRo
+F7D8	pha rataSub wataSub	pha rataSub wataSub
+F7D9	ba ii	ba ii
+F7DA	ba uu	ba uu
+F7DB	ba aa e	ba aa e
+F7DC	ba ee	ba ee
+F7DD	ba aa o	ba aa o
+F7DE	ba rjesSuNgaRo	ba rjesSuNgaRo
+F7DF	ba kaSub	ba kaSub
+F7E0	ba ngaSub	ba ngaSub
+F7E1	ba dzaSub	ba dzaSub
+F7E2	ba taSub	ba taSub
+F7E3	ba daSub	ba daSub
+F7E4	ba dhaSub i	ba dhaSub i
+F7E5	ba baSub i	ba baSub i
+F7E6	ba yataSub aa	ba yataSub aa
+F7E7	ba yataSub uu	ba yataSub uu
+F7E8	ba rataSub aa	ba rataSub aa
+F7E9	ba rataSub ii	ba rataSub ii
+F7EA	ba rataSub uu	ba rataSub uu
+F7EB	ba rataSub uu rjesSuNgaRo	ba rataSub uu rjesSuNgaRo
+F7EC	ba saSub	ba saSub
+F7ED	bha ii	bha ii
+F7EE	bha uu	bha uu
+F7EF	bha r	bha r
+F7F0	bha rr	bha rr
+F7F1	bha ee	bha ee
+F7F2	bha rjesSuNgaRo	bha rjesSuNgaRo
+F7F3	bha yataSub	bha yataSub
+F7F4	bha yataSub aa	bha yataSub aa
+F7F5	bha yataSub e	bha yataSub e
+F7F6	bha yataSub ee	bha yataSub ee
+F7F7	bha yataSub o	bha yataSub o
+F7F8	bha yataSub rjesSuNgaRo	bha yataSub rjesSuNgaRo
+F7F9	bha yataSub aa rjesSuNgaRo	bha yataSub aa rjesSuNgaRo
+F7FA	bha rataSub	bha rataSub
+F7FB	bha rataSub aa	bha rataSub aa
+F7FC	bha rataSub i	bha rataSub i
+F7FD	bha rataSub u	bha rataSub u
+F7FE	bha rataSub rjesSuNgaRo	bha rataSub rjesSuNgaRo
+F7FF	bha rataSub aa rjesSuNgaRo	bha rataSub aa rjesSuNgaRo
+F800	bha rataSub u rjesSuNgaRo	bha rataSub u rjesSuNgaRo
+F801	bha rataSub u snaLdan	bha rataSub u snaLdan
+F802	bha rataSub uu rjesSuNgaRo	bha rataSub uu rjesSuNgaRo
+F803	bha rataSub uu snaLdan	bha rataSub uu snaLdan
+F804	bha laSub	bha laSub
+F805	bha wataSub	bha wataSub
+F806	bha wataSub aa	bha wataSub aa
+F807	ma ii	ma ii
+F808	ma uu	ma uu
+F809	ma aa e	ma aa e
+F80A	ma ee	ma ee
+F80B	ma aa o	ma aa o
+F80C	ma oo	ma oo
+F80D	ma rjesSuNgaRo	ma rjesSuNgaRo
+F80E	ma aa rjesSuNgaRo	ma aa rjesSuNgaRo
+F80F	ma oo rjesSuNgaRo	ma oo rjesSuNgaRo
+F810	ma gaSub	ma gaSub
+F811	ma ngaSub	ma ngaSub
+F812	ma paSub	ma paSub
+F813	ma paSub i	ma paSub i
+F814	ma phaSub	ma phaSub
+F815	ma baSub	ma baSub
+F816	ma baSub i	ma baSub i
+F817	ma baSub u	ma baSub u
+F818	ma baSub o	ma baSub o
+F819	ma bhaSub	ma bhaSub
+F81A	ma bhaSub i	ma bhaSub i
+F81B	ma bhaSub u	ma bhaSub u
+F81C	ma bhaSub e	ma bhaSub e
+F81D	ma bhaSub o	ma bhaSub o
+F81E	ma bhaSub rataSub	ma bhaSub rataSub
+F81F	ma maSub	ma maSub
+F820	ma maSub aa	ma maSub aa
+F821	ma maSub i	ma maSub i
+F822	ma yataSub wataSub	ma yataSub wataSub
+F823	ma rataSub aa	ma rataSub aa
+F824	ma laSub	ma laSub
+F825	ma wataSub	ma wataSub
+F826	ma saSub	ma saSub
+F827	ya ii	ya ii
+F828	ya uu	ya uu
+F829	ya aa o	ya aa o
+F82A	ya aa rjesSuNgaRo	ya aa rjesSuNgaRo
+F82B	ya ngaSub	ya ngaSub
+F82C	ya taSub o	ya taSub o
+F82D	ya naSub	ya naSub
+F82E	ya naSub i	ya naSub i
+F82F	ya baSub	ya baSub
+F830	ya maSub	ya maSub
+F831	ya yataSub	ya yataSub
+F832	ya rataSub	ya rataSub
+F833	ya wataSub	ya wataSub
+F834	ra ii	ra ii
+F835	ra uu	ra uu
+F836	ra ee	ra ee
+F837	ra aa o	ra aa o
+F838	ra oo	ra oo
+F839	ra rjesSuNgaRo	ra rjesSuNgaRo
+F83A	ra ghaSub	ra ghaSub
+F83B	ra ghaSub rjesSuNgaRo	ra ghaSub rjesSuNgaRo
+F83C	ra tshaSub iMir	ra tshaSub iMir
+F83D	ra dzaSub dzaSub	ra dzaSub dzaSub
+F83E	ra dzaSub nyaSub aa	ra dzaSub nyaSub aa
+F83F	ra ttaSub	ra ttaSub
+F840	ra nnaSub	ra nnaSub
+F841	ra nnaSub aa	ra nnaSub aa
+F842	ra nnaSub i	ra nnaSub i
+F843	ra nnaSub nnaSub	ra nnaSub nnaSub
+F844	ra taSub aa	ra taSub aa
+F845	ra taSub ii	ra taSub ii
+F846	ra taSub taSub	ra taSub taSub
+F847	ra taSub taSub i	ra taSub taSub i
+F848	ra taSub maSub	ra taSub maSub
+F849	rha thaSub	rha thaSub
+F84A	rha thaSub i	rha thaSub i
+F84B	ra daSub aa	ra daSub aa
+F84C	ra daSub rataSub aa	ra daSub rataSub aa
+F84D	ra daSub rataSub i	ra daSub rataSub i
+F84E	ra dhaSub	ra dhaSub
+F84F	ra dhaSub i	ra dhaSub i
+F850	ra paSub	ra paSub
+F851	ra baSub aa	ra baSub aa
+F852	ra baSub rjesSuNgaRo	ra baSub rjesSuNgaRo
+F853	ra baSub baSub	ra baSub baSub
+F854	ra baSub baSub i	ra baSub baSub i
+F855	ra bhaSub	ra bhaSub
+F856	ra bhaSub i	ra bhaSub i
+F857	ra bhaSub e	ra bhaSub e
+F858	ra maSub aa	ra maSub aa
+F859	ra maSub maSub	ra maSub maSub
+F85A	ra maSub maSub aa	ra maSub maSub aa
+F85B	ra yataSub	ra yataSub
+F85C	ra yataSub aa	ra yataSub aa
+F85D	ra yataSub o	ra yataSub o
+F85E	ra yataSub rjesSuNgaRo	ra yataSub rjesSuNgaRo
+F85F	rha yaSub yataSub	rha yaSub yataSub
+F860	rha laSub haSub	rha laSub haSub
+F861	rha laSub haSub e	rha laSub haSub e
+F862	ra wataSub i	ra wataSub i
+F863	ra wataSub o	ra wataSub o
+F864	rha shaSub	rha shaSub
+F865	rha shaSub i	rha shaSub i
+F866	rha shaSub u	rha shaSub u
+F867	rha ssaSub	rha ssaSub
+F868	ra haSub	ra haSub
+F869	ra haSub yataSub	ra haSub yataSub
+F86A	la ii	la ii
+F86B	la uu	la uu
+F86C	la aa e	la aa e
+F86D	la aa o	la aa o
+F86E	la oo	la oo
+F86F	la rjesSuNgaRo	la rjesSuNgaRo
+F870	la aa snaLdan	la aa snaLdan
+F871	la gaSub yataSub	la gaSub yataSub
+F872	la gaSub yataSub u	la gaSub yataSub u
+F873	la gaSub yataSub o	la gaSub yataSub o
+F874	la ghaSub	la ghaSub
+F875	la thaSub	la thaSub
+F876	la paSub aa	la paSub aa
+F877	la baSub aa	la baSub aa
+F878	la maSub	la maSub
+F879	la maSub i	la maSub i
+F87A	la yataSub	la yataSub
+F87B	la yataSub aa	la yataSub aa
+F87C	la rataSub oo	la rataSub oo
+F87D	la laSub	la laSub
+F87E	la laSub aa	la laSub aa
+F87F	la laSub i	la laSub i
+F880	la laSub ii	la laSub ii
+F881	la laSub u	la laSub u
+F882	la laSub uu	la laSub uu
+F883	la laSub e	la laSub e
+F884	la laSub rjesSuNgaRo	la laSub rjesSuNgaRo
+F885	la wataSub aa	la wataSub aa
+F886	wa ii	wa ii
+F887	wa rjesSuNgaRo	wa rjesSuNgaRo
+F888	wa snaLdan	wa snaLdan
+F889	sha ii	sha ii
+F88A	sha iiMir	sha iiMir
+F88B	sha uu	sha uu
+F88C	sha r	sha r
+F88D	sha rr	sha rr
+F88E	sha oo	sha oo
+F88F	sha rjesSuNgaRo	sha rjesSuNgaRo
+F890	sha ngaSub iMir	sha ngaSub iMir
+F891	sha tsaSub	sha tsaSub
+F892	sha tsaSub i	sha tsaSub i
+F893	sha tsaSub tshaSub	sha tsaSub tshaSub
+F894	sha tshaSub	sha tshaSub
+F895	sha taSub i	sha taSub i
+F896	sha naSub aa	sha naSub aa
+F897	sha maSub	sha maSub
+F898	sha yataSub	sha yataSub
+F899	sha yataSub aa	sha yataSub aa
+F89A	sha yataSub i	sha yataSub i
+F89B	sha rataSub	sha rataSub
+F89C	sha rataSub aa	sha rataSub aa
+F89D	sha rataSub i	sha rataSub i
+F89E	sha rataSub ii	sha rataSub ii
+F89F	sha laSub o	sha laSub o
+F8A0	sha laSub oo	sha laSub oo
+F8A1	sha laSub rjesSuNgaRo	sha laSub rjesSuNgaRo
+F8A2	sha wataSub aa	sha wataSub aa
+F8A3	sha wataSub i	sha wataSub i
+F8A4	sha wataSub o	sha wataSub o
+F8A5	sha shaSub	sha shaSub
+F8A6	ssa kaSub	ssa kaSub
+F8A7	ssa kaSub ee	ssa kaSub ee
+F8A8	ssa ttaSub	ssa ttaSub
+F8A9	ssa ttaSub aa	ssa ttaSub aa
+F8AA	ssa ttaSub i	ssa ttaSub i
+F8AB	ssa tthaSub	ssa tthaSub
+F8AC	ssa tthaSub aa	ssa tthaSub aa
+F8AD	ssa tthaSub i	ssa tthaSub i
+F8AE	ssa nnaSub	ssa nnaSub
+F8AF	ssa nnaSub i	ssa nnaSub i
+F8B0	ssa nnaSub ii	ssa nnaSub ii
+F8B1	ssa nnaSub u	ssa nnaSub u
+F8B2	ssa nnaSub uu	ssa nnaSub uu
+F8B3	ssa paSub	ssa paSub
+F8B4	ssa paSub e	ssa paSub e
+F8B5	ssa yataSub o	ssa yataSub o
+F8B6	ssa laSub	ssa laSub
+F8B7	sa ii	sa ii
+F8B8	sa iiMir	sa iiMir
+F8B9	sa uu	sa uu
+F8BA	sa ee	sa ee
+F8BB	sa aa o	sa aa o
+F8BC	sa oo	sa oo
+F8BD	sa rjesSuNgaRo	sa rjesSuNgaRo
+F8BE	sa snaLdan	sa snaLdan
+F8BF	sa i rjesSuNgaRo	sa i rjesSuNgaRo
+F8C0	sa u rjesSuNgaRo	sa u rjesSuNgaRo
+F8C1	sa e rjesSuNgaRo	sa e rjesSuNgaRo
+F8C2	sa ee rjesSuNgaRo	sa ee rjesSuNgaRo
+F8C3	sa kaSub aa	sa kaSub aa
+F8C4	sa khaSub	sa khaSub
+F8C5	sa tsaSub laSub	sa tsaSub laSub
+F8C6	sa dzaSub	sa dzaSub
+F8C7	sa dzhaSub	sa dzhaSub
+F8C8	sa taSub aa	sa taSub aa
+F8C9	sa taSub yataSub	sa taSub yataSub
+F8CA	sa taSub rataSub	sa taSub rataSub
+F8CB	sa taSub rataSub aa	sa taSub rataSub aa
+F8CC	sa taSub rataSub i	sa taSub rataSub i
+F8CD	sa taSub rataSub ii	sa taSub rataSub ii
+F8CE	sa taSub rataSub ee	sa taSub rataSub ee
+F8CF	sa taSub rataSub o	sa taSub rataSub o
+F8D0	sa taSub rataSub rjesSuNgaRo	sa taSub rataSub rjesSuNgaRo
+F8D1	sa taSub rataSub aa rjesSuNgaRo	sa taSub rataSub aa rjesSuNgaRo
+F8D2	sa taSub rataSub i rjesSuNgaRo	sa taSub rataSub i rjesSuNgaRo
+F8D3	sa taSub rataSub ii rjesSuNgaRo	sa taSub rataSub ii rjesSuNgaRo
+F8D4	sa taSub wataSub o	sa taSub wataSub o
+F8D5	sa taSub wataSub rjesSuNgaRo	sa taSub wataSub rjesSuNgaRo
+F8D6	sa thaSub aa	sa thaSub aa
+F8D7	sa thaSub i	sa thaSub i
+F8D8	sa thaSub uu	sa thaSub uu
+F8D9	sa phaSub	sa phaSub
+F8DA	sa phaSub aa	sa phaSub aa
+F8DB	sa phaSub u	sa phaSub u
+F8DC	sa bhaSub	sa bhaSub
+F8DD	sa bhaSub o	sa bhaSub o
+F8DE	sa maSub aa	sa maSub aa
+F8DF	sa yataSub	sa yataSub
+F8E0	sa yataSub ee	sa yataSub ee
+F8E1	sa rataSub aa	sa rataSub aa
+F8E2	sa wataSub aa	sa wataSub aa
+F8E3	sa shaSub e	sa shaSub e
+F8E4	sa saSub	sa saSub
+F8E5	sa haSub	sa haSub
+F8E6	sa haSub o	sa haSub o
+F8E7	ha ii	ha ii
+F8E8	ha uu	ha uu
+F8E9	ha rr	ha rr
+F8EA	ha aa o	ha aa o
+F8EB	ha rjesSuNgaRo	ha rjesSuNgaRo
+F8EC	ha snaLdan	ha snaLdan
+F8ED	ha u rjesSuNgaRo	ha u rjesSuNgaRo
+F8EE	ha uu rjesSuNgaRo	ha uu rjesSuNgaRo
+F8EF	ha uu snaLdan	ha uu snaLdan
+F8F0	ha ddaSub	ha ddaSub
+F8F1	ha nnaSub	ha nnaSub
+F8F2	ha naSub	ha naSub
+F8F3	ha naSub i	ha naSub i
+F8F4	ha maSub	ha maSub
+F8F5	ha maSub aa	ha maSub aa
+F8F6	ha yataSub	ha yataSub
+F8F7	ha yataSub u	ha yataSub u
+F8F8	ha yataSub e	ha yataSub e
+F8F9	ha yataSub wataSub	ha yataSub wataSub
+F8FA	ha yataSub wataSub e	ha yataSub wataSub e
+F8FB	ha rataSub ii	ha rataSub ii
+F8FC	ha laSub	ha laSub
+F8FD	ha wataSub aa	ha wataSub aa
+F8FE	ha wataSub uu	ha wataSub uu
+F8FF	ha wataSub o	ha wataSub o

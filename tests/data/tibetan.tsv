@@ -1,0 +1,761 @@
+F300	qa i	qa i
+F301	qa iMir	qa iMir
+F302	qa u	qa u
+F303	qa e	qa e
+F304	qa o	qa o
+F305	ka aa	ka aa
+F306	ka i	ka i
+F307	ka iMir	ka iMir
+F308	ka u	ka u
+F309	ka e	ka e
+F30A	ka o	ka o
+F30B	ka yataSub	ka yataSub
+F30C	ka yataSub i	ka yataSub i
+F30D	ka yataSub iMir	ka yataSub iMir
+F30E	ka yataSub u	ka yataSub u
+F30F	ka yataSub e	ka yataSub e
+F310	ka yataSub o	ka yataSub o
+F311	ka rataSub	ka rataSub
+F312	ka rataSub i	ka rataSub i
+F313	ka r	ka r
+F314	ka rataSub u	ka rataSub u
+F315	ka rataSub e	ka rataSub e
+F316	ka rataSub o	ka rataSub o
+F317	ka laSub	ka laSub
+F318	ka laSub i	ka laSub i
+F319	ka l	ka l
+F31A	ka laSub u	ka laSub u
+F31B	ka laSub e	ka laSub e
+F31C	ka laSub o	ka laSub o
+F31D	ka wataSub	ka wataSub
+F31E	ra kaSub	ra kaSub
+F31F	ra kaSub i	ra kaSub i
+F320	ra kaSub iMir	ra kaSub iMir
+F321	ra kaSub u	ra kaSub u
+F322	ra kaSub e	ra kaSub e
+F323	ra kaSub o	ra kaSub o
+F324	ra kaSub yataSub	ra kaSub yataSub
+F325	ra kaSub yataSub i	ra kaSub yataSub i
+F326	ra kaSub yataSub iMir	ra kaSub yataSub iMir
+F327	ra kaSub yataSub u	ra kaSub yataSub u
+F328	ra kaSub yataSub e	ra kaSub yataSub e
+F329	ra kaSub yataSub o	ra kaSub yataSub o
+F32A	la kaSub	la kaSub
+F32B	la kaSub i	la kaSub i
+F32C	la kaSub iMir	la kaSub iMir
+F32D	la kaSub u	la kaSub u
+F32E	la kaSub e	la kaSub e
+F32F	la kaSub o	la kaSub o
+F330	sa kaSub	sa kaSub
+F331	sa kaSub i	sa kaSub i
+F332	sa kaSub iMir	sa kaSub iMir
+F333	sa kaSub u	sa kaSub u
+F334	sa kaSub e	sa kaSub e
+F335	sa kaSub o	sa kaSub o
+F336	sa kaSub yataSub	sa kaSub yataSub
+F337	sa kaSub yataSub i	sa kaSub yataSub i
+F338	sa kaSub yataSub iMir	sa kaSub yataSub iMir
+F339	sa kaSub yataSub u	sa kaSub yataSub u
+F33A	sa kaSub yataSub e	sa kaSub yataSub e
+F33B	sa kaSub yataSub o	sa kaSub yataSub o
+F33C	sa kaSub rataSub	sa kaSub rataSub
+F33D	sa kaSub rataSub i	sa kaSub rataSub i
+F33E	sa kaSub r	sa kaSub r
+F33F	sa kaSub rataSub u	sa kaSub rataSub u
+F340	sa kaSub rataSub e	sa kaSub rataSub e
+F341	sa kaSub rataSub o	sa kaSub rataSub o
+F342	kha aa	kha aa
+F343	kha i	kha i
+F344	kha iMir	kha iMir
+F345	kha u	kha u
+F346	kha e	kha e
+F347	kha o	kha o
+F348	kha yataSub	kha yataSub
+F349	kha yataSub i	kha yataSub i
+F34A	kha yataSub iMir	kha yataSub iMir
+F34B	kha yataSub u	kha yataSub u
+F34C	kha yataSub e	kha yataSub e
+F34D	kha yataSub o	kha yataSub o
+F34E	kha rataSub	kha rataSub
+F34F	kha rataSub i	kha rataSub i
+F350	kha r	kha r
+F351	kha rataSub u	kha rataSub u
+F352	kha rataSub e	kha rataSub e
+F353	kha rataSub o	kha rataSub o
+F354	kha wataSub	kha wataSub
+F355	kha wataSub i	kha wataSub i
+F356	kha wataSub iMir	kha wataSub iMir
+F357	kha wataSub u	kha wataSub u
+F358	kha wataSub e	kha wataSub e
+F359	kha wataSub o	kha wataSub o
+F35A	ga aa	ga aa
+F35B	ga i	ga i
+F35C	ga iMir	ga iMir
+F35D	ga u	ga u
+F35E	ga e	ga e
+F35F	ga o	ga o
+F360	ga yataSub	ga yataSub
+F361	ga yataSub i	ga yataSub i
+F362	ga yataSub iMir	ga yataSub iMir
+F363	ga yataSub u	ga yataSub u
+F364	ga yataSub e	ga yataSub e
+F365	ga yataSub o	ga yataSub o
+F366	ga rataSub	ga rataSub
+F367	ga rataSub i	ga rataSub i
+F368	ga r	ga r
+F369	ga rataSub u	ga rataSub u
+F36A	ga rataSub e	ga rataSub e
+F36B	ga rataSub o	ga rataSub o
+F36C	ga rataSub wataSub	ga rataSub wataSub
+F36D	ga laSub	ga laSub
+F36E	ga laSub i	ga laSub i
+F36F	ga l	ga l
+F370	ga laSub u	ga laSub u
+F371	ga laSub e	ga laSub e
+F372	ga laSub o	ga laSub o
+F373	ga wataSub	ga wataSub
+F374	ra gaSub	ra gaSub
+F375	ra gaSub i	ra gaSub i
+F376	ra gaSub iMir	ra gaSub iMir
+F377	ra gaSub u	ra gaSub u
+F378	ra gaSub e	ra gaSub e
+F379	ra gaSub o	ra gaSub o
+F37A	ra gaSub yataSub	ra gaSub yataSub
+F37B	ra gaSub yataSub i	ra gaSub yataSub i
+F37C	ra gaSub yataSub iMir	ra gaSub yataSub iMir
+F37D	ra gaSub yataSub u	ra gaSub yataSub u
+F37E	ra gaSub yataSub e	ra gaSub yataSub e
+F37F	ra gaSub yataSub o	ra gaSub yataSub o
+F380	la gaSub	la gaSub
+F381	la gaSub i	la gaSub i
+F382	la gaSub iMir	la gaSub iMir
+F383	la gaSub u	la gaSub u
+F384	la gaSub e	la gaSub e
+F385	la gaSub o	la gaSub o
+F386	sa gaSub	sa gaSub
+F387	sa gaSub i	sa gaSub i
+F388	sa gaSub iMir	sa gaSub iMir
+F389	sa gaSub u	sa gaSub u
+F38A	sa gaSub e	sa gaSub e
+F38B	sa gaSub o	sa gaSub o
+F38C	sa gaSub yataSub	sa gaSub yataSub
+F38D	sa gaSub yataSub i	sa gaSub yataSub i
+F38E	sa gaSub yataSub iMir	sa gaSub yataSub iMir
+F38F	sa gaSub yataSub u	sa gaSub yataSub u
+F390	sa gaSub yataSub e	sa gaSub yataSub e
+F391	sa gaSub yataSub o	sa gaSub yataSub o
+F392	sa gaSub rataSub	sa gaSub rataSub
+F393	sa gaSub rataSub i	sa gaSub rataSub i
+F394	sa gaSub r	sa gaSub r
+F395	sa gaSub rataSub u	sa gaSub rataSub u
+F396	sa gaSub rataSub e	sa gaSub rataSub e
+F397	sa gaSub rataSub o	sa gaSub rataSub o
+F398	gha aa	gha aa
+F399	gha i	gha i
+F39A	gha iMir	gha iMir
+F39B	gha u	gha u
+F39C	gha e	gha e
+F39D	gha o	gha o
+F39E	nga aa	nga aa
+F39F	nga i	nga i
+F3A0	nga iMir	nga iMir
+F3A1	nga u	nga u
+F3A2	nga e	nga e
+F3A3	nga o	nga o
+F3A4	ra ngaSub	ra ngaSub
+F3A5	ra ngaSub i	ra ngaSub i
+F3A6	ra ngaSub iMir	ra ngaSub iMir
+F3A7	ra ngaSub u	ra ngaSub u
+F3A8	ra ngaSub e	ra ngaSub e
+F3A9	ra ngaSub o	ra ngaSub o
+F3AA	la ngaSub	la ngaSub
+F3AB	la ngaSub i	la ngaSub i
+F3AC	la ngaSub iMir	la ngaSub iMir
+F3AD	la ngaSub u	la ngaSub u
+F3AE	la ngaSub e	la ngaSub e
+F3AF	la ngaSub o	la ngaSub o
+F3B0	sa ngaSub	sa ngaSub
+F3B1	sa ngaSub i	sa ngaSub i
+F3B2	sa ngaSub iMir	sa ngaSub iMir
+F3B3	sa ngaSub u	sa ngaSub u
+F3B4	sa ngaSub e	sa ngaSub e
+F3B5	sa ngaSub o	sa ngaSub o
+F3B6	ca aa	ca aa
+F3B7	ca i	ca i
+F3B8	ca iMir	ca iMir
+F3B9	ca u	ca u
+F3BA	ca uu	ca uu
+F3BB	ca e	ca e
+F3BC	ca o	ca o
+F3BD	ca rjesSuNgaRo	ca rjesSuNgaRo
+F3BE	la caSub	la caSub
+F3BF	la caSub i	la caSub i
+F3C0	la caSub iMir	la caSub iMir
+F3C1	la caSub u	la caSub u
+F3C2	la caSub e	la caSub e
+F3C3	la caSub o	la caSub o
+F3C4	ca gaSub i	ca gaSub i
+F3C5	ca ngaSub o	ca ngaSub o
+F3C6	ca yataSub o	ca yataSub o
+F3C7	ca wataSub i	ca wataSub i
+F3C8	ca wataSub o	ca wataSub o
+F3C9	cha aa	cha aa
+F3CA	cha i	cha i
+F3CB	cha ii	cha ii
+F3CC	cha iMir	cha iMir
+F3CD	cha u	cha u
+F3CE	cha e	cha e
+F3CF	cha o	cha o
+F3D0	cha aa o	cha aa o
+F3D1	cha rjesSuNgaRo	cha rjesSuNgaRo
+F3D2	cha gaSub i	cha gaSub i
+F3D3	cha gaSub iMir	cha gaSub iMir
+F3D4	cha saSub iMir	cha saSub iMir
+F3D5	cha saSub o	cha saSub o
+F3D6	ra chaSub u	ra chaSub u
+F3D7	la chaSub iMir	la chaSub iMir
+F3D8	la chaSub o	la chaSub o
+F3D9	ja aa	ja aa
+F3DA	ja i	ja i
+F3DB	ja iMir	ja iMir
+F3DC	ja u	ja u
+F3DD	ja e	ja e
+F3DE	ja o	ja o
+F3DF	ja rjesSuNgaRo	ja rjesSuNgaRo
+F3E0	ra jaSub	ra jaSub
+F3E1	ra jaSub i	ra jaSub i
+F3E2	ra jaSub iMir	ra jaSub iMir
+F3E3	ra jaSub u	ra jaSub u
+F3E4	ra jaSub e	ra jaSub e
+F3E5	ra jaSub o	ra jaSub o
+F3E6	la jaSub	la jaSub
+F3E7	la jaSub i	la jaSub i
+F3E8	la jaSub iMir	la jaSub iMir
+F3E9	la jaSub u	la jaSub u
+F3EA	la jaSub e	la jaSub e
+F3EB	la jaSub o	la jaSub o
+F3EC	nya aa	nya aa
+F3ED	nya i	nya i
+F3EE	nya iMir	nya iMir
+F3EF	nya u	nya u
+F3F0	nya e	nya e
+F3F1	nya o	nya o
+F3F2	nya wataSub	nya wataSub
+F3F3	ra nyaSub	ra nyaSub
+F3F4	ra nyaSub i	ra nyaSub i
+F3F5	ra nyaSub iMir	ra nyaSub iMir
+F3F6	ra nyaSub u	ra nyaSub u
+F3F7	ra nyaSub e	ra nyaSub e
+F3F8	ra nyaSub o	ra nyaSub o
+F3F9	sa nyaSub	sa nyaSub
+F3FA	sa nyaSub i	sa nyaSub i
+F3FB	sa nyaSub iMir	sa nyaSub iMir
+F3FC	sa nyaSub u	sa nyaSub u
+F3FD	sa nyaSub e	sa nyaSub e
+F3FE	sa nyaSub o	sa nyaSub o
+F3FF	tta aa	tta aa
+F400	tta i	tta i
+F401	tta iMir	tta iMir
+F402	tta u	tta u
+F403	tta e	tta e
+F404	tta o	tta o
+F405	ttha aa	ttha aa
+F406	ttha i	ttha i
+F407	ttha iMir	ttha iMir
+F408	ttha u	ttha u
+F409	ttha e	ttha e
+F40A	ttha o	ttha o
+F40B	dda aa	dda aa
+F40C	dda i	dda i
+F40D	dda iMir	dda iMir
+F40E	dda u	dda u
+F40F	dda e	dda e
+F410	dda o	dda o
+F411	ddha aa	ddha aa
+F412	ddha i	ddha i
+F413	ddha iMir	ddha iMir
+F414	ddha u	ddha u
+F415	ddha e	ddha e
+F416	ddha o	ddha o
+F417	nna aa	nna aa
+F418	nna i	nna i
+F419	nna iMir	nna iMir
+F41A	nna u	nna u
+F41B	nna e	nna e
+F41C	nna o	nna o
+F41D	ta aa	ta aa
+F41E	ta i	ta i
+F41F	ta iMir	ta iMir
+F420	ta u	ta u
+F421	ta e	ta e
+F422	ta o	ta o
+F423	ta rataSub	ta rataSub
+F424	ta rataSub i	ta rataSub i
+F425	ta r	ta r
+F426	ta rataSub u	ta rataSub u
+F427	ta rataSub e	ta rataSub e
+F428	ta rataSub o	ta rataSub o
+F429	ra taSub	ra taSub
+F42A	ra taSub i	ra taSub i
+F42B	ra taSub iMir	ra taSub iMir
+F42C	ra taSub u	ra taSub u
+F42D	ra taSub e	ra taSub e
+F42E	ra taSub o	ra taSub o
+F42F	la taSub	la taSub
+F430	la taSub i	la taSub i
+F431	la taSub iMir	la taSub iMir
+F432	la taSub u	la taSub u
+F433	la taSub e	la taSub e
+F434	la taSub o	la taSub o
+F435	sa taSub	sa taSub
+F436	sa taSub i	sa taSub i
+F437	sa taSub iMir	sa taSub iMir
+F438	sa taSub u	sa taSub u
+F439	sa taSub e	sa taSub e
+F43A	sa taSub o	sa taSub o
+F43B	tha aa	tha aa
+F43C	tha i	tha i
+F43D	tha iMir	tha iMir
+F43E	tha u	tha u
+F43F	tha e	tha e
+F440	tha o	tha o
+F441	tha rataSub	tha rataSub
+F442	tha rataSub i	tha rataSub i
+F443	tha r	tha r
+F444	tha rataSub u	tha rataSub u
+F445	tha rataSub e	tha rataSub e
+F446	tha rataSub o	tha rataSub o
+F447	da aa	da aa
+F448	da i	da i
+F449	da iMir	da iMir
+F44A	da u	da u
+F44B	da e	da e
+F44C	da o	da o
+F44D	da rataSub	da rataSub
+F44E	da rataSub i	da rataSub i
+F44F	da r	da r
+F450	da rataSub u	da rataSub u
+F451	da rataSub e	da rataSub e
+F452	da rataSub o	da rataSub o
+F453	da rataSub wataSub	da rataSub wataSub
+F454	da wataSub	da wataSub
+F455	da wataSub i	da wataSub i
+F456	da wataSub iMir	da wataSub iMir
+F457	da wataSub u	da wataSub u
+F458	da wataSub e	da wataSub e
+F459	da wataSub o	da wataSub o
+F45A	ra daSub	ra daSub
+F45B	ra daSub i	ra daSub i
+F45C	ra daSub iMir	ra daSub iMir
+F45D	ra daSub u	ra daSub u
+F45E	ra daSub e	ra daSub e
+F45F	ra daSub o	ra daSub o
+F460	la daSub	la daSub
+F461	la daSub i	la daSub i
+F462	la daSub iMir	la daSub iMir
+F463	la daSub u	la daSub u
+F464	la daSub e	la daSub e
+F465	la daSub o	la daSub o
+F466	sa daSub	sa daSub
+F467	sa daSub i	sa daSub i
+F468	sa daSub iMir	sa daSub iMir
+F469	sa daSub u	sa daSub u
+F46A	sa daSub e	sa daSub e
+F46B	sa daSub o	sa daSub o
+F46C	dha aa	dha aa
+F46D	dha i	dha i
+F46E	dha iMir	dha iMir
+F46F	dha u	dha u
+F470	dha e	dha e
+F471	dha o	dha o
+F472	na aa	na aa
+F473	na i	na i
+F474	na iMir	na iMir
+F475	na u	na u
+F476	na e	na e
+F477	na o	na o
+F478	ra naSub	ra naSub
+F479	ra naSub i	ra naSub i
+F47A	ra naSub iMir	ra naSub iMir
+F47B	ra naSub u	ra naSub u
+F47C	ra naSub e	ra naSub e
+F47D	ra naSub o	ra naSub o
+F47E	sa naSub	sa naSub
+F47F	sa naSub i	sa naSub i
+F480	sa naSub iMir	sa naSub iMir
+F481	sa naSub u	sa naSub u
+F482	sa naSub e	sa naSub e
+F483	sa naSub o	sa naSub o
+F484	sa naSub rataSub	sa naSub rataSub
+F485	sa naSub rataSub i	sa naSub rataSub i
+F486	sa naSub r	sa naSub r
+F487	sa naSub rataSub u	sa naSub rataSub u
+F488	sa naSub rataSub e	sa naSub rataSub e
+F489	sa naSub rataSub o	sa naSub rataSub o
+F48A	pa aa	pa aa
+F48B	pa i	pa i
+F48C	pa iMir	pa iMir
+F48D	pa u	pa u
+F48E	pa e	pa e
+F48F	pa o	pa o
+F490	pa yataSub	pa yataSub
+F491	pa yataSub i	pa yataSub i
+F492	pa yataSub iMir	pa yataSub iMir
+F493	pa yataSub u	pa yataSub u
+F494	pa yataSub e	pa yataSub e
+F495	pa yataSub o	pa yataSub o
+F496	pa rataSub	pa rataSub
+F497	pa rataSub i	pa rataSub i
+F498	pa r	pa r
+F499	pa rataSub u	pa rataSub u
+F49A	pa rataSub e	pa rataSub e
+F49B	pa rataSub o	pa rataSub o
+F49C	la paSub	la paSub
+F49D	la paSub i	la paSub i
+F49E	la paSub iMir	la paSub iMir
+F49F	la paSub u	la paSub u
+F4A0	la paSub e	la paSub e
+F4A1	la paSub o	la paSub o
+F4A2	sa paSub	sa paSub
+F4A3	sa paSub i	sa paSub i
+F4A4	sa paSub iMir	sa paSub iMir
+F4A5	sa paSub u	sa paSub u
+F4A6	sa paSub e	sa paSub e
+F4A7	sa paSub o	sa paSub o
+F4A8	sa paSub yataSub	sa paSub yataSub
+F4A9	sa paSub yataSub i	sa paSub yataSub i
+F4AA	sa paSub yataSub iMir	sa paSub yataSub iMir
+F4AB	sa paSub yataSub u	sa paSub yataSub u
+F4AC	sa paSub yataSub e	sa paSub yataSub e
+F4AD	sa paSub yataSub o	sa paSub yataSub o
+F4AE	sa paSub rataSub	sa paSub rataSub
+F4AF	sa paSub rataSub i	sa paSub rataSub i
+F4B0	sa paSub r	sa paSub r
+F4B1	sa paSub rataSub u	sa paSub rataSub u
+F4B2	sa paSub rataSub e	sa paSub rataSub e
+F4B3	sa paSub rataSub o	sa paSub rataSub o
+F4B4	pha aa	pha aa
+F4B5	pha i	pha i
+F4B6	pha iMir	pha iMir
+F4B7	pha u	pha u
+F4B8	pha e	pha e
+F4B9	pha o	pha o
+F4BA	pha yataSub	pha yataSub
+F4BB	pha yataSub i	pha yataSub i
+F4BC	pha yataSub iMir	pha yataSub iMir
+F4BD	pha yataSub u	pha yataSub u
+F4BE	pha yataSub e	pha yataSub e
+F4BF	pha yataSub o	pha yataSub o
+F4C0	pha yataSub wataSub	pha yataSub wataSub
+F4C1	pha rataSub	pha rataSub
+F4C2	pha rataSub i	pha rataSub i
+F4C3	pha r	pha r
+F4C4	pha rataSub u	pha rataSub u
+F4C5	pha rataSub e	pha rataSub e
+F4C6	pha rataSub o	pha rataSub o
+F4C7	ha phaSub	ha phaSub
+F4C8	ha phaSub aa	ha phaSub aa
+F4C9	ha phaSub i	ha phaSub i
+F4CA	ha phaSub u	ha phaSub u
+F4CB	ha phaSub e	ha phaSub e
+F4CC	ha phaSub o	ha phaSub o
+F4CD	ba aa	ba aa
+F4CE	ba i	ba i
+F4CF	ba iMir	ba iMir
+F4D0	ba u	ba u
+F4D1	ba e	ba e
+F4D2	ba o	ba o
+F4D3	ba yataSub	ba yataSub
+F4D4	ba yataSub i	ba yataSub i
+F4D5	ba yataSub iMir	ba yataSub iMir
+F4D6	ba yataSub u	ba yataSub u
+F4D7	ba yataSub e	ba yataSub e
+F4D8	ba yataSub o	ba yataSub o
+F4D9	ba rataSub	ba rataSub
+F4DA	ba rataSub i	ba rataSub i
+F4DB	ba r	ba r
+F4DC	ba rataSub u	ba rataSub u
+F4DD	ba rataSub e	ba rataSub e
+F4DE	ba rataSub o	ba rataSub o
+F4DF	ba laSub	ba laSub
+F4E0	ba laSub i	ba laSub i
+F4E1	ba l	ba l
+F4E2	ba laSub u	ba laSub u
+F4E3	ba laSub e	ba laSub e
+F4E4	ba laSub o	ba laSub o
+F4E5	ra baSub	ra baSub
+F4E6	ra baSub i	ra baSub i
+F4E7	ra baSub iMir	ra baSub iMir
+F4E8	ra baSub u	ra baSub u
+F4E9	ra baSub e	ra baSub e
+F4EA	ra baSub o	ra baSub o
+F4EB	la baSub	la baSub
+F4EC	la baSub i	la baSub i
+F4ED	la baSub iMir	la baSub iMir
+F4EE	la baSub u	la baSub u
+F4EF	la baSub e	la baSub e
+F4F0	la baSub o	la baSub o
+F4F1	sa baSub	sa baSub
+F4F2	sa baSub i	sa baSub i
+F4F3	sa baSub iMir	sa baSub iMir
+F4F4	sa baSub u	sa baSub u
+F4F5	sa baSub e	sa baSub e
+F4F6	sa baSub o	sa baSub o
+F4F7	sa baSub yataSub	sa baSub yataSub
+F4F8	sa baSub yataSub i	sa baSub yataSub i
+F4F9	sa baSub yataSub iMir	sa baSub yataSub iMir
+F4FA	sa baSub yataSub u	sa baSub yataSub u
+F4FB	sa baSub yataSub e	sa baSub yataSub e
+F4FC	sa baSub yataSub o	sa baSub yataSub o
+F4FD	sa baSub rataSub	sa baSub rataSub
+F4FE	sa baSub rataSub i	sa baSub rataSub i
+F4FF	sa baSub r	sa baSub r
+F500	sa baSub rataSub u	sa baSub rataSub u
+F501	sa baSub rataSub e	sa baSub rataSub e
+F502	sa baSub rataSub o	sa baSub rataSub o
+F503	bha aa	bha aa
+F504	bha i	bha i
+F505	bha iMir	bha iMir
+F506	bha u	bha u
+F507	bha e	bha e
+F508	bha o	bha o
+F509	ma aa	ma aa
+F50A	ma i	ma i
+F50B	ma iMir	ma iMir
+F50C	ma u	ma u
+F50D	ma e	ma e
+F50E	ma o	ma o
+F50F	ma yataSub	ma yataSub
+F510	ma yataSub i	ma yataSub i
+F511	ma yataSub iMir	ma yataSub iMir
+F512	ma yataSub u	ma yataSub u
+F513	ma yataSub e	ma yataSub e
+F514	ma yataSub o	ma yataSub o
+F515	ma rataSub	ma rataSub
+F516	ma rataSub i	ma rataSub i
+F517	ma r	ma r
+F518	ma rataSub u	ma rataSub u
+F519	ma rataSub e	ma rataSub e
+F51A	ma rataSub o	ma rataSub o
+F51B	ra maSub	ra maSub
+F51C	ra maSub i	ra maSub i
+F51D	ra maSub iMir	ra maSub iMir
+F51E	ra maSub u	ra maSub u
+F51F	ra maSub e	ra maSub e
+F520	ra maSub o	ra maSub o
+F521	ra maSub yataSub	ra maSub yataSub
+F522	ra maSub yataSub i	ra maSub yataSub i
+F523	ra maSub yataSub iMir	ra maSub yataSub iMir
+F524	ra maSub yataSub u	ra maSub yataSub u
+F525	ra maSub yataSub e	ra maSub yataSub e
+F526	ra maSub yataSub o	ra maSub yataSub o
+F527	sa maSub	sa maSub
+F528	sa maSub i	sa maSub i
+F529	sa maSub iMir	sa maSub iMir
+F52A	sa maSub u	sa maSub u
+F52B	sa maSub e	sa maSub e
+F52C	sa maSub o	sa maSub o
+F52D	sa maSub yataSub	sa maSub yataSub
+F52E	sa maSub yataSub i	sa maSub yataSub i
+F52F	sa maSub yataSub iMir	sa maSub yataSub iMir
+F530	sa maSub yataSub u	sa maSub yataSub u
+F531	sa maSub yataSub e	sa maSub yataSub e
+F532	sa maSub yataSub o	sa maSub yataSub o
+F533	sa maSub rataSub	sa maSub rataSub
+F534	sa maSub rataSub i	sa maSub rataSub i
+F535	sa maSub r	sa maSub r
+F536	sa maSub rataSub u	sa maSub rataSub u
+F537	sa maSub rataSub e	sa maSub rataSub e
+F538	sa maSub rataSub o	sa maSub rataSub o
+F539	tsa aa	tsa aa
+F53A	tsa i	tsa i
+F53B	tsa iMir	tsa iMir
+F53C	tsa u	tsa u
+F53D	tsa e	tsa e
+F53E	tsa o	tsa o
+F53F	ra tsaSub	ra tsaSub
+F540	ra tsaSub i	ra tsaSub i
+F541	ra tsaSub iMir	ra tsaSub iMir
+F542	ra tsaSub u	ra tsaSub u
+F543	ra tsaSub e	ra tsaSub e
+F544	ra tsaSub o	ra tsaSub o
+F545	ra tsaSub wataSub	ra tsaSub wataSub
+F546	sa tsaSub	sa tsaSub
+F547	sa tsaSub i	sa tsaSub i
+F548	sa tsaSub iMir	sa tsaSub iMir
+F549	sa tsaSub u	sa tsaSub u
+F54A	sa tsaSub e	sa tsaSub e
+F54B	sa tsaSub o	sa tsaSub o
+F54C	tsha aa	tsha aa
+F54D	tsha i	tsha i
+F54E	tsha iMir	tsha iMir
+F54F	tsha u	tsha u
+F550	tsha e	tsha e
+F551	tsha o	tsha o
+F552	tsha wataSub	tsha wataSub
+F553	dza aa	dza aa
+F554	dza i	dza i
+F555	dza iMir	dza iMir
+F556	dza u	dza u
+F557	dza e	dza e
+F558	dza o	dza o
+F559	ra dzaSub	ra dzaSub
+F55A	ra dzaSub i	ra dzaSub i
+F55B	ra dzaSub iMir	ra dzaSub iMir
+F55C	ra dzaSub u	ra dzaSub u
+F55D	ra dzaSub e	ra dzaSub e
+F55E	ra dzaSub o	ra dzaSub o
+F55F	dzha aa	dzha aa
+F560	dzha i	dzha i
+F561	dzha iMir	dzha iMir
+F562	dzha u	dzha u
+F563	dzha e	dzha e
+F564	dzha o	dzha o
+F565	wa aa	wa aa
+F566	wa i	wa i
+F567	wa iMir	wa iMir
+F568	wa u	wa u
+F569	wa e	wa e
+F56A	wa o	wa o
+F56B	zha tsaXphru	zha tsaXphru
+F56C	zha aa	zha aa
+F56D	zha i	zha i
+F56E	zha ii	zha ii
+F56F	zha iMir	zha iMir
+F570	zha u	zha u
+F571	zha e	zha e
+F572	zha o	zha o
+F573	zha rjesSuNgaRo	zha rjesSuNgaRo
+F574	zha rataSub e	zha rataSub e
+F575	zha rataSub wataSub	zha rataSub wataSub
+F576	zha wataSub	zha wataSub
+F577	zha gaSub	zha gaSub
+F578	zha ngaSub	zha ngaSub
+F579	zha ngaSub iMir	zha ngaSub iMir
+F57A	zha naSub	zha naSub
+F57B	zha naSub i	zha naSub i
+F57C	za tsaXphru	za tsaXphru
+F57D	za aa	za aa
+F57E	za i	za i
+F57F	za iMir	za iMir
+F580	za u	za u
+F581	za e	za e
+F582	za o	za o
+F583	za rataSub i	za rataSub i
+F584	za r	za r
+F585	za laSub	za laSub
+F586	za laSub i	za laSub i
+F587	za l	za l
+F588	za laSub u	za laSub u
+F589	za laSub e	za laSub e
+F58A	za laSub o	za laSub o
+F58B	za wataSub	za wataSub
+F58C	za wataSub u	za wataSub u
+F58D	za wataSub e	za wataSub e
+F58E	za wataSub o	za wataSub o
+F58F	za ngaSub	za ngaSub
+F590	xa tsaXphru	xa tsaXphru
+F591	xa i	xa i
+F592	xa tsaXphru i	xa tsaXphru i
+F593	xa iMir	xa iMir
+F594	xa u	xa u
+F595	xa tsaXphru u	xa tsaXphru u
+F596	xa e	xa e
+F597	xa o	xa o
+F598	xa aa o	xa aa o
+F599	xa rjesSuNgaRo	xa rjesSuNgaRo
+F59A	xa u rjesSuNgaRo	xa u rjesSuNgaRo
+F59B	xa ngaSub	xa ngaSub
+F59C	xa tsaXphru ngaSub	xa tsaXphru ngaSub
+F59D	xa yataSub wataSub	xa yataSub wataSub
+F59E	xa wataSub	xa wataSub
+F59F	xa tsaXphru wataSub i	xa tsaXphru wataSub i
+F5A0	xa tsaXphru wataSub iMir	xa tsaXphru wataSub iMir
+F5A1	xa wataSub e	xa wataSub e
+F5A2	xa wataSub o	xa wataSub o
+F5A3	ya aa	ya aa
+F5A4	ya i	ya i
+F5A5	ya iMir	ya iMir
+F5A6	ya u	ya u
+F5A7	ya e	ya e
+F5A8	ya o	ya o
+F5A9	ra aa	ra aa
+F5AA	ra i	ra i
+F5AB	ra u	ra u
+F5AC	ra e	ra e
+F5AD	ra o	ra o
+F5AE	rha laSub	rha laSub
+F5AF	rha laSub i	rha laSub i
+F5B0	rha l	rha l
+F5B1	rha laSub u	rha laSub u
+F5B2	rha laSub e	rha laSub e
+F5B3	rha laSub o	rha laSub o
+F5B4	ra wataSub	ra wataSub
+F5B5	la aa	la aa
+F5B6	la i	la i
+F5B7	la u	la u
+F5B8	la e	la e
+F5B9	la o	la o
+F5BA	la wataSub	la wataSub
+F5BB	sha aa	sha aa
+F5BC	sha i	sha i
+F5BD	sha iMir	sha iMir
+F5BE	sha u	sha u
+F5BF	sha e	sha e
+F5C0	sha o	sha o
+F5C1	sha wataSub	sha wataSub
+F5C2	ssa aa	ssa aa
+F5C3	ssa i	ssa i
+F5C4	ssa iMir	ssa iMir
+F5C5	ssa u	ssa u
+F5C6	ssa e	ssa e
+F5C7	ssa o	ssa o
+F5C8	sa aa	sa aa
+F5C9	sa i	sa i
+F5CA	sa iMir	sa iMir
+F5CB	sa u	sa u
+F5CC	sa e	sa e
+F5CD	sa o	sa o
+F5CE	sa rataSub	sa rataSub
+F5CF	sa rataSub i	sa rataSub i
+F5D0	sa r	sa r
+F5D1	sa rataSub u	sa rataSub u
+F5D2	sa rataSub e	sa rataSub e
+F5D3	sa rataSub o	sa rataSub o
+F5D4	sa laSub	sa laSub
+F5D5	sa laSub i	sa laSub i
+F5D6	sa l	sa l
+F5D7	sa laSub u	sa laSub u
+F5D8	sa laSub e	sa laSub e
+F5D9	sa laSub o	sa laSub o
+F5DA	sa wataSub	sa wataSub
+F5DB	sa wataSub i	sa wataSub i
+F5DC	sa wataSub iMir	sa wataSub iMir
+F5DD	sa wataSub u	sa wataSub u
+F5DE	sa wataSub e	sa wataSub e
+F5DF	sa wataSub o	sa wataSub o
+F5E0	ha aa	ha aa
+F5E1	ha i	ha i
+F5E2	ha iMir	ha iMir
+F5E3	ha u	ha u
+F5E4	ha e	ha e
+F5E5	ha o	ha o
+F5E6	ha rataSub	ha rataSub
+F5E7	ha rataSub i	ha rataSub i
+F5E8	ha r	ha r
+F5E9	ha rataSub u	ha rataSub u
+F5EA	ha rataSub e	ha rataSub e
+F5EB	ha rataSub o	ha rataSub o
+F5EC	ha wataSub	ha wataSub
+F5ED	la haSub	la haSub
+F5EE	la haSub i	la haSub i
+F5EF	la haSub iMir	la haSub iMir
+F5F0	la haSub u	la haSub u
+F5F1	la haSub e	la haSub e
+F5F2	la haSub o	la haSub o
+F5F3	ka ssaSub aa	ka ssaSub aa
+F5F4	ka ssaSub i	ka ssaSub i
+F5F5	ka ssaSub iMir	ka ssaSub iMir
+F5F6	ka ssaSub u	ka ssaSub u
+F5F7	ka ssaSub e	ka ssaSub e
+F5F8	ka ssaSub o	ka ssaSub o
