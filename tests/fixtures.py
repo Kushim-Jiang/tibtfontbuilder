@@ -15,7 +15,7 @@ from fontTools.ttLib import TTFont
 from ufo2ft import OTFCompiler
 from ufo2ft.constants import CFFOptimization
 from ufoLib2 import Font
-from utils import parseVariants, tempDir, testsDir
+from utils import parseVariants, parseAliases, tempDir, testsDir
 
 import data
 from src.lib_.spec import applySpecToFont
@@ -57,6 +57,16 @@ def loadTestCases(
     font: Path,
     test_info: list[str],
 ) -> list[tuple[str, str, str] | ParameterSet]:
+    import yaml
+
+    mapping = {}
+    with open("src/data_/letter.yaml", "r", encoding="utf-8") as f:
+        yaml_data = yaml.safe_load(f)
+    for variants in yaml_data.values():
+        for variant in variants:
+            if "name" in variant and "cp" in variant:
+                mapping[variant["name"]] = chr(variant["cp"])
+
     test_cases: list[tuple[str, str, str] | ParameterSet] = []
     for testSet in test_info:
         file_path = files(data) / f"{testSet}.tsv"
@@ -66,7 +76,7 @@ def loadTestCases(
             try:
                 test_case = (
                     f"{testSet} > {index}",
-                    parseVariants(letters, font),
+                    parseVariants(parseAliases(letters, mapping), font),
                     goal,
                 )
                 test_cases.append(test_case)

@@ -36,6 +36,13 @@ def parseVariants(text: str, font: Path) -> str:
     return " ".join(letters)
 
 
+def parseAliases(text: str, mapping: dict[str, str]) -> str:
+    # mapping: qa -> ཨ
+    aliases = text.split(" ")
+    chars = [mapping[alias] for alias in aliases]
+    return "".join(chars)
+
+
 def makeFontFilename(font: TTFont) -> str:
     from fontTools.ttLib.tables._n_a_m_e import table__n_a_m_e
 
