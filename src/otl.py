@@ -96,7 +96,8 @@ class TibtFeaComposer(FeaComposer):
             "ragoConsonants",
             [letter + "Sub" for letter in CATEGORIES["consonant"] if letter not in ["nya", "la", "ra", "wa", "ya"]],
         )
-        with c.Lookup("IIa.ra.rago", feature="rclt", flags={"UseMarkFilteringSet": letters}):
+        marks = c.glyphClass([letter + "Sub" for letter in CATEGORIES["consonant"]])
+        with c.Lookup("IIa.ra.rago", feature="rclt", flags={"UseMarkFilteringSet": marks}):
             c.sub(c.input("ra"), letters, by="rago")
 
             if LAB:
