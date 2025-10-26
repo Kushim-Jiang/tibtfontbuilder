@@ -202,6 +202,10 @@
                 <div class="font-display" id="sequence-display"></div>
             </div>
         </div>
+        <div class="info-section">
+            <h2>Glyphs</h2>
+            <div class="split-content" id="glyphs-display"></div>
+        </div>
         <div class="split-display">
             <div class="split-item-1">
                 <h2>Split Sequence</h2>
@@ -295,6 +299,16 @@
             } else {
                 tranDisplay.textContent = '/';
                 tranDisplay.style.fontFamily = 'Charis SIL, serif';
+            }
+
+            // Update glyph display
+            const glyphsDisplay = document.getElementById('glyphs-display');
+            if (mappingEntry && mappingEntry.glyph) {
+                glyphsDisplay.textContent = mappingEntry.glyph;
+                glyphsDisplay.style.fontFamily = 'Charis SIL, serif';
+            } else {
+                glyphsDisplay.textContent = '/';
+                glyphsDisplay.style.fontFamily = 'Charis SIL, serif';
             }
 
             // Update progress bar
