@@ -4503,13 +4503,13 @@ F1195	ra rataSub ee	ra rataSub ee
 F1196	ra rataSub o	ra rataSub o
 F1197	ra rataSub oo	ra rataSub oo
 F1198	ra rataSub rjesSuNgaRo	ra rataSub rjesSuNgaRo
-F1199	rha laSub aa	ra laSub aa
-F119A	rha laSub ii	ra laSub aa i
-F119B	rha laSub uu	ra laSub aa u
-F119C	rha laSub r	ra laSub rataSub iMir
-F119D	rha laSub oo	ra laSub oo
-F119E	rha laSub rjesSuNgaRo	ra laSub rjesSuNgaRo
-F119F	rha laSub aa rjesSuNgaRo	ra laSub aa rjesSuNgaRo
+F1199	ra laSub aa	ra laSub aa
+F119A	ra laSub ii	ra laSub aa i
+F119B	ra laSub uu	ra laSub aa u
+F119C	ra laSub r	ra laSub rataSub iMir
+F119D	ra laSub oo	ra laSub oo
+F119E	ra laSub rjesSuNgaRo	ra laSub rjesSuNgaRo
+F119F	ra laSub aa rjesSuNgaRo	ra laSub aa rjesSuNgaRo
 F11A0	ra wataSub aa	ra wataSub aa
 F11A1	ra wataSub ii	ra wataSub aa i
 F11A2	ra wataSub u	ra wataSub u

@@ -684,12 +684,12 @@ F5AA	ra i	ra i
 F5AB	ra u	ra u
 F5AC	ra e	ra e
 F5AD	ra o	ra o
-F5AE	rha laSub	ra laSub
-F5AF	rha laSub i	ra laSub i
-F5B0	rha l	ra laSub iMir
-F5B1	rha laSub u	ra laSub u
-F5B2	rha laSub e	ra laSub e
-F5B3	rha laSub o	ra laSub o
+F5AE	ra laSub	ra laSub
+F5AF	ra laSub i	ra laSub i
+F5B0	ra l	ra laSub iMir
+F5B1	ra laSub u	ra laSub u
+F5B2	ra laSub e	ra laSub e
+F5B3	ra laSub o	ra laSub o
 F5B4	ra wataSub	ra wataSub
 F5B5	la aa	la aa
 F5B6	la i	la i
